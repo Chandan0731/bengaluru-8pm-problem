@@ -1,0 +1,9 @@
+# Ignore large raw data files & archives
+data/raw/*
+*.zip
+*.parquet
+
+# Ignore Python & Jupyter cache files
+__pycache__/
+.ipynb_checkpoints/
+.env
