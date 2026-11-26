@@ -15,6 +15,21 @@ An end-to-end data engineering, relational modeling, statistical inference, and 
 Read the full policy brief in [`docs/executive_decision_brief.md`](docs/executive_decision_brief.md).
 
 ---
+## Raw-Data Download Steps (Reproducing Raw Inputs from Scratch)
+
+Because raw JSON payloads exceed repository size guidelines, follow these three steps to re-download the exact 12+ month raw sources (`Nov 2025 – Nov 2026`):
+
+1. **Source 1 — Air Quality Time Series (OpenAQ v3 REST JSON API):**
+   * Register for a free API key at [explore.openaq.org](https://explore.openaq.org/) and add `OPENAQ_API_KEY=your_key` to your `.env` file.
+   * Query the hourly measurements endpoint (`GET https://api.openaq.org/v3/sensors/{sensor_id}/hours`) with header `X-API-Key: <OPENAQ_API_KEY>` and query parameters `date_from=2025-11-01T00:00:00Z&date_to=2026-11-26T23:59:59Z&limit=1000` across Bengaluru's 10 CPCB/KSPCB stations (Hebbal, Silk Board, Jayanagar 5th Block, BTM Layout, Hombegowda Nagar, Bapuji Nagar, City Railway Station, Sanegurava Halli, RVCE Mailasandra, Peenya) for `pm25`, `pm10`, `no2`, and `co`.
+   * Flatten the JSON `results[]` array into `data/raw/stations.csv` (10 rows) and `data/raw/readings.csv` (227,481 rows).
+
+2. **Source 2 — Hourly Meteorology (Open-Meteo Historical Weather API — Keyless JSON):**
+   * Run a standard HTTP `GET` request (no API key required) to:
+     ```text
+     [https://archive-api.open-meteo.com/v1/archive?latitude=12.9716&longitude=77.5946&start_date=2025-11-01&end_date=2026-11-26&hourly=temperature_2m,relative_humidity_2m,precipitation,rain,wind_speed_10m&timezone=GMT](https://archive-api.open-meteo.com/v1/archive?latitude=12.9716&longitude=77.5946&start_date=2025-11-01&end_date=2026-11-26&hourly=temperature_2m,relative_humidity_2m,precipitation,rain,wind_speed_10m&timezone=GMT)
+     ```
+   * Flatten the `hourly` JSON arrays into `data/raw/weather_hourly.csv` (9,120 rows).
 
 ## Relational Database Architecture (`bengaluru_8pm_db`)
 
