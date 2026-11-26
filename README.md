@@ -2,6 +2,7 @@
 
 An end-to-end data engineering, relational modeling, statistical inference, and policy storytelling case study investigating Bengaluru's evening air-quality spike (19:00–21:00 IST) across **November 2025 – November 2026** ($N = 236,991$ database records).
 
+**Live Interactive Commissioner's Command Center:** [Launch the Bengaluru 8 PM Operational Dashboard]https://bengaluru-8pm-problem-ar6jlleqgjxtk26w4yxtw7.streamlit.app/
 ---
 
 ## Executive Summary & Key Findings
