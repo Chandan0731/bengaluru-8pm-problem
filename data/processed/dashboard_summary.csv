@@ -1,0 +1,1734 @@
+short_station,hour_ist,day_regime,weather_regime,calendar_regime,mean_pm25,median_pm25,mean_wind,sample_count
+BTM Layout,0,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,32.4,22.1,7.266666666666667,3
+BTM Layout,0,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,33.051249999999996,29.1,10.684999999999999,80
+BTM Layout,0,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,16.65,16.65,3.0,2
+BTM Layout,0,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,20.933333333333334,18.299999999999997,10.108333333333333,12
+BTM Layout,0,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,33.075,22.65,7.35,4
+BTM Layout,0,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,31.323214285714283,24.5,11.019642857142857,56
+BTM Layout,0,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,22.014285714285712,18.6,9.942857142857141,7
+BTM Layout,0,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,35.26111111111111,27.299999999999997,10.357407407407406,54
+BTM Layout,0,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,22.5875,17.25,9.3125,8
+BTM Layout,1,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,29.475,22.85,6.050000000000001,4
+BTM Layout,1,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,31.816666666666666,26.549999999999997,10.271875,96
+BTM Layout,1,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,16.4,16.4,5.9,1
+BTM Layout,1,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,18.65,17.8,11.559999999999999,10
+BTM Layout,1,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,28.24,22.0,6.38,5
+BTM Layout,1,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,30.638461538461538,24.5,10.406153846153845,65
+BTM Layout,1,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,17.785714285714285,16.9,7.871428571428572,7
+BTM Layout,1,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,30.475,23.35,9.78125,64
+BTM Layout,1,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,20.844444444444445,15.9,12.244444444444444,9
+BTM Layout,2,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,28.975,21.75,5.95,4
+BTM Layout,2,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,30.702083333333334,23.9,10.253124999999999,96
+BTM Layout,2,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,16.9,16.9,10.3,1
+BTM Layout,2,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,21.28,17.75,10.129999999999999,10
+BTM Layout,2,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,27.139999999999997,20.8,6.220000000000001,5
+BTM Layout,2,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,29.80757575757576,22.55,10.036363636363635,66
+BTM Layout,2,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,17.44,17.3,8.760000000000002,5
+BTM Layout,2,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,30.41060606060606,22.65,9.566666666666666,66
+BTM Layout,2,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,23.571428571428573,15.9,12.457142857142857,7
+BTM Layout,3,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,26.85,18.95,7.025,4
+BTM Layout,3,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,30.238383838383836,23.2,10.066666666666666,99
+BTM Layout,3,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,16.2,16.2,10.9,1
+BTM Layout,3,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,21.48888888888889,18.2,9.11111111111111,9
+BTM Layout,3,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,26.919999999999998,22.7,4.78,5
+BTM Layout,3,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,30.225757575757576,23.950000000000003,9.653030303030304,66
+BTM Layout,3,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,17.259999999999998,16.9,8.940000000000001,5
+BTM Layout,3,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,30.0910447761194,21.1,9.382089552238806,67
+BTM Layout,3,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,22.433333333333334,16.299999999999997,10.05,6
+BTM Layout,4,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,26.8,19.3,6.7749999999999995,4
+BTM Layout,4,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,29.423529411764704,22.75,9.870588235294116,102
+BTM Layout,4,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,15.7,15.7,10.6,1
+BTM Layout,4,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,18.400000000000002,16.5,6.1499999999999995,6
+BTM Layout,4,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,26.479999999999997,22.9,5.14,5
+BTM Layout,4,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,30.467164179104476,24.0,9.28955223880597,67
+BTM Layout,4,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,17.1,16.9,8.48,5
+BTM Layout,4,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,29.533823529411762,22.65,9.116176470588234,68
+BTM Layout,4,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,22.71666666666667,17.200000000000003,11.216666666666667,6
+BTM Layout,5,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,28.3,20.65,7.6000000000000005,4
+BTM Layout,5,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,29.159223300970876,22.8,9.837864077669902,103
+BTM Layout,5,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,15.1,15.1,8.7,1
+BTM Layout,5,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,16.72,15.8,6.62,5
+BTM Layout,5,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,26.1,23.2,6.68,5
+BTM Layout,5,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,28.77826086956522,21.9,9.331884057971013,69
+BTM Layout,5,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,17.0,17.8,8.233333333333333,3
+BTM Layout,5,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,29.18169014084507,23.7,8.933802816901407,71
+BTM Layout,5,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,24.275000000000002,17.55,10.975,4
+BTM Layout,6,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,25.439999999999998,20.4,7.9799999999999995,5
+BTM Layout,6,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,29.95841584158416,23.5,9.57029702970297,101
+BTM Layout,6,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,16.166666666666668,15.5,9.916666666666666,6
+BTM Layout,6,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,25.02,22.0,6.92,5
+BTM Layout,6,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,28.41014492753623,21.7,9.179710144927537,69
+BTM Layout,6,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,29.633333333333336,22.1,7.1000000000000005,3
+BTM Layout,6,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,29.87142857142857,23.15,8.608571428571429,70
+BTM Layout,6,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,16.759999999999998,16.4,9.98,5
+BTM Layout,7,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,28.3,24.5,7.359999999999999,5
+BTM Layout,7,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,30.994791666666668,24.200000000000003,9.969791666666667,96
+BTM Layout,7,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,22.485714285714288,17.2,11.057142857142859,14
+BTM Layout,7,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,26.54,24.4,6.779999999999999,5
+BTM Layout,7,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,30.22205882352941,23.2,9.533823529411764,68
+BTM Layout,7,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,15.633333333333333,15.3,12.833333333333334,3
+BTM Layout,7,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,30.47941176470588,24.4,8.841176470588236,68
+BTM Layout,7,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,16.966666666666665,17.049999999999997,12.233333333333334,6
+BTM Layout,8,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,28.7,23.2,6.92,5
+BTM Layout,8,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,32.26702127659574,26.35,9.842553191489362,94
+BTM Layout,8,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,19.13125,16.65,14.9125,16
+BTM Layout,8,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,32.22,22.2,9.02,5
+BTM Layout,8,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,32.112698412698414,25.7,9.606349206349208,63
+BTM Layout,8,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,17.12222222222222,16.3,15.077777777777776,9
+BTM Layout,8,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,30.88955223880597,24.0,9.350746268656716,67
+BTM Layout,8,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,16.942857142857143,17.5,13.114285714285714,7
+BTM Layout,9,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,36.074999999999996,25.1,7.75,4
+BTM Layout,9,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,33.17142857142857,27.4,10.39010989010989,91
+BTM Layout,9,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,20.0,20.0,3.7,1
+BTM Layout,9,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,20.538095238095238,18.0,13.861904761904762,21
+BTM Layout,9,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,32.516666666666666,29.95,7.983333333333333,6
+BTM Layout,9,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,32.55166666666666,26.35,10.211666666666666,60
+BTM Layout,9,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,20.38181818181818,18.1,17.027272727272727,11
+BTM Layout,9,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,32.87076923076923,26.1,9.561538461538461,65
+BTM Layout,9,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,17.922222222222224,16.8,14.277777777777779,9
+BTM Layout,10,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,33.375,23.25,7.949999999999999,4
+BTM Layout,10,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,33.91494252873563,28.7,10.489655172413793,87
+BTM Layout,10,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,25.7,25.7,7.4,1
+BTM Layout,10,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,22.62272727272727,18.700000000000003,15.113636363636363,22
+BTM Layout,10,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,37.699999999999996,33.3,8.316666666666666,6
+BTM Layout,10,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,32.012068965517244,24.95,10.115517241379312,58
+BTM Layout,10,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,19.558333333333334,17.1,17.01666666666667,12
+BTM Layout,10,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,33.478125,27.7,9.909375,64
+BTM Layout,10,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,20.16,17.3,13.7,10
+BTM Layout,11,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,38.05,32.85,6.875,4
+BTM Layout,11,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,33.62068965517241,26.1,10.439080459770116,87
+BTM Layout,11,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,22.2,22.2,6.2,1
+BTM Layout,11,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,22.068181818181817,17.9,15.859090909090908,22
+BTM Layout,11,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,33.4,28.45,9.65,6
+BTM Layout,11,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,32.39433962264151,26.7,10.40377358490566,53
+BTM Layout,11,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,19.77857142857143,16.7,15.450000000000001,14
+BTM Layout,11,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,33.593333333333334,26.95,9.226666666666667,60
+BTM Layout,11,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,19.228571428571428,17.1,15.364285714285714,14
+BTM Layout,12,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,31.35,24.55,6.5,4
+BTM Layout,12,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,35.57625,29.9,10.790000000000001,80
+BTM Layout,12,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,19.7,19.7,7.5,1
+BTM Layout,12,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,20.021428571428572,18.25,13.564285714285715,28
+BTM Layout,12,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,32.06666666666667,25.35,10.716666666666667,6
+BTM Layout,12,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,34.45510204081633,29.2,10.040816326530612,49
+BTM Layout,12,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,18.81578947368421,17.6,15.010526315789473,19
+BTM Layout,12,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,34.470689655172414,32.4,9.39310344827586,58
+BTM Layout,12,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,18.11764705882353,17.3,13.041176470588235,17
+BTM Layout,13,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,28.45,28.45,3.95,2
+BTM Layout,13,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,32.50697674418605,28.7,11.262790697674419,86
+BTM Layout,13,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,24.0,24.0,9.4,1
+BTM Layout,13,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,21.06,18.6,12.832,25
+BTM Layout,13,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,34.46666666666667,28.15,10.65,6
+BTM Layout,13,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,32.21272727272727,28.5,10.183636363636364,55
+BTM Layout,13,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,19.429411764705883,17.0,15.129411764705882,17
+BTM Layout,13,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,34.0625,27.950000000000003,9.764285714285714,56
+BTM Layout,13,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,18.855555555555554,18.0,12.733333333333333,18
+BTM Layout,14,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,37.13333333333333,30.0,4.8999999999999995,3
+BTM Layout,14,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,33.44047619047619,27.4,11.136904761904763,84
+BTM Layout,14,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,29.6,29.6,9.2,1
+BTM Layout,14,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,20.053846153846152,18.4,14.665384615384616,26
+BTM Layout,14,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,33.233333333333334,28.9,10.766666666666667,6
+BTM Layout,14,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,29.69272727272727,24.8,10.672727272727272,55
+BTM Layout,14,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,19.857142857142858,16.299999999999997,14.200000000000001,14
+BTM Layout,14,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,31.15666666666667,24.1,10.055,60
+BTM Layout,14,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,18.62727272727273,18.2,16.07272727272727,11
+BTM Layout,15,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,35.06666666666667,30.2,6.0,3
+BTM Layout,15,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,31.88941176470588,26.1,11.478823529411764,85
+BTM Layout,15,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,23.6,23.6,9.9,1
+BTM Layout,15,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,20.125,17.6,12.782142857142857,28
+BTM Layout,15,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,34.2,27.6,11.92,5
+BTM Layout,15,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,31.960869565217394,27.1,11.034782608695652,46
+BTM Layout,15,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,16.825,15.95,13.308333333333332,24
+BTM Layout,15,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,29.75862068965517,23.0,11.025862068965518,58
+BTM Layout,15,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,17.783333333333335,16.75,11.533333333333333,12
+BTM Layout,16,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,31.03333333333333,24.1,7.666666666666667,3
+BTM Layout,16,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,33.654666666666664,28.4,12.443999999999999,75
+BTM Layout,16,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,24.1,24.1,8.7,1
+BTM Layout,16,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,19.920588235294115,16.700000000000003,11.988235294117647,34
+BTM Layout,16,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,33.025,30.5,11.725,4
+BTM Layout,16,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,33.96279069767442,30.6,11.051162790697674,43
+BTM Layout,16,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,18.76923076923077,16.1,12.803846153846154,26
+BTM Layout,16,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,31.580000000000002,22.4,10.903636363636364,55
+BTM Layout,16,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,18.153333333333332,16.5,10.846666666666666,15
+BTM Layout,17,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,27.225,21.95,8.65,4
+BTM Layout,17,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,37.66375,27.2,11.73875,80
+BTM Layout,17,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,21.1,21.1,8.0,1
+BTM Layout,17,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,17.941379310344825,16.1,10.96206896551724,29
+BTM Layout,17,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,32.875,28.9,10.825,4
+BTM Layout,17,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,36.279591836734696,31.2,10.724489795918368,49
+BTM Layout,17,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,17.51304347826087,16.0,11.273913043478261,23
+BTM Layout,17,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,35.51111111111111,25.200000000000003,10.233333333333334,54
+BTM Layout,17,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,18.741176470588236,17.9,12.894117647058822,17
+BTM Layout,18,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,26.560000000000002,19.8,6.540000000000001,5
+BTM Layout,18,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,32.90114942528736,24.7,10.875862068965517,87
+BTM Layout,18,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,23.927272727272726,17.3,9.868181818181817,22
+BTM Layout,18,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,33.019999999999996,30.6,9.86,5
+BTM Layout,18,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,35.06111111111111,30.5,10.16851851851852,54
+BTM Layout,18,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,17.333333333333332,16.0,9.527777777777779,18
+BTM Layout,18,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,31.537704918032787,24.8,9.568852459016394,61
+BTM Layout,18,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,21.85,17.4,10.43,10
+BTM Layout,19,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,27.2,19.9,7.880000000000001,5
+BTM Layout,19,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,31.875510204081635,25.9,10.524489795918369,98
+BTM Layout,19,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,17.875,17.85,9.783333333333333,12
+BTM Layout,19,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,32.0,23.7,11.1,5
+BTM Layout,19,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,33.596428571428575,25.65,9.262500000000001,56
+BTM Layout,19,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,16.964285714285715,16.35,10.464285714285714,14
+BTM Layout,19,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,32.22698412698413,25.1,9.43968253968254,63
+BTM Layout,19,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,21.0125,17.700000000000003,8.4375,8
+BTM Layout,20,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,31.9,26.1,5.24,5
+BTM Layout,20,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,32.47659574468085,27.55,10.707446808510639,94
+BTM Layout,20,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,17.754545454545454,17.5,9.472727272727273,11
+BTM Layout,20,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,38.28,33.5,11.36,5
+BTM Layout,20,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,35.608620689655176,26.0,10.068965517241379,58
+BTM Layout,20,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,17.60909090909091,16.3,9.472727272727273,11
+BTM Layout,20,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,34.52203389830508,28.6,9.701694915254237,59
+BTM Layout,20,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,18.6375,17.5,9.0125,8
+BTM Layout,21,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,26.516666666666666,23.4,7.583333333333333,6
+BTM Layout,21,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,32.62244897959184,26.55,11.126530612244899,98
+BTM Layout,21,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,23.299999999999997,16.9,9.477777777777778,9
+BTM Layout,21,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,40.3,31.9,12.26,5
+BTM Layout,21,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,34.99824561403509,30.7,10.357894736842105,57
+BTM Layout,21,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,19.6,16.8,11.144444444444444,9
+BTM Layout,21,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,34.7,29.5,9.95076923076923,65
+BTM Layout,21,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,18.3,18.6,7.828571428571428,7
+BTM Layout,22,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,27.400000000000002,23.700000000000003,9.816666666666666,6
+BTM Layout,22,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,32.44395604395604,27.4,10.831868131868132,91
+BTM Layout,22,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,23.753333333333334,17.0,11.426666666666668,15
+BTM Layout,22,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,41.56,31.1,11.459999999999999,5
+BTM Layout,22,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,33.67142857142857,29.5,10.606349206349208,63
+BTM Layout,22,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,35.300000000000004,17.1,8.866666666666667,6
+BTM Layout,22,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,33.87761194029851,28.1,10.414925373134327,67
+BTM Layout,22,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,18.0,18.3,7.24,5
+BTM Layout,23,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,27.400000000000002,24.4,10.233333333333333,6
+BTM Layout,23,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,31.15,26.15,11.242,100
+BTM Layout,23,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,22.655555555555555,22.0,10.422222222222222,9
+BTM Layout,23,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,38.28,26.3,11.3,5
+BTM Layout,23,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,33.97121212121212,27.2,10.871212121212121,66
+BTM Layout,23,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,18.06,16.9,9.76,5
+BTM Layout,23,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,33.28235294117647,26.700000000000003,10.854411764705883,68
+BTM Layout,23,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,25.46,18.5,9.879999999999999,5
+Bapuji Nagar,0,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,22.833333333333332,23.0,8.533333333333333,3
+Bapuji Nagar,0,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,24.964,20.0,10.754666666666667,75
+Bapuji Nagar,0,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,21.833333333333332,12.0,5.733333333333333,3
+Bapuji Nagar,0,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,15.561538461538463,15.8,8.446153846153846,13
+Bapuji Nagar,0,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,22.166666666666668,23.0,8.9,6
+Bapuji Nagar,0,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,23.60576923076923,22.0,11.009615384615385,52
+Bapuji Nagar,0,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,32.0,32.0,7.3,1
+Bapuji Nagar,0,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,9.428571428571429,10.5,9.285714285714286,7
+Bapuji Nagar,0,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,26.878333333333334,23.0,10.623333333333333,60
+Bapuji Nagar,0,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,12.857142857142858,11.5,9.428571428571429,7
+Bapuji Nagar,1,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,16.625,16.0,6.9,4
+Bapuji Nagar,1,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,26.70813953488372,22.5,10.582558139534884,86
+Bapuji Nagar,1,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,28.0,28.0,4.5,2
+Bapuji Nagar,1,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,16.959285714285716,16.4,10.685714285714285,14
+Bapuji Nagar,1,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,22.428571428571427,26.5,7.985714285714286,7
+Bapuji Nagar,1,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,27.950877192982457,26.0,10.39298245614035,57
+Bapuji Nagar,1,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,11.625,9.0,7.9125,8
+Bapuji Nagar,1,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,26.363285714285716,22.75,9.851428571428572,70
+Bapuji Nagar,1,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,18.071428571428573,13.0,12.685714285714285,7
+Bapuji Nagar,2,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,17.6,16.5,6.4799999999999995,5
+Bapuji Nagar,2,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,26.02078651685393,22.5,10.291011235955056,89
+Bapuji Nagar,2,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,11.5,11.5,10.3,1
+Bapuji Nagar,2,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,19.69090909090909,17.0,10.281818181818181,11
+Bapuji Nagar,2,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,21.125,21.75,7.6125,8
+Bapuji Nagar,2,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,29.212280701754384,24.5,10.18421052631579,57
+Bapuji Nagar,2,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,10.95,10.5,8.760000000000002,5
+Bapuji Nagar,2,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,25.149,23.15,9.517142857142858,70
+Bapuji Nagar,2,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,13.7,11.5,13.74,5
+Bapuji Nagar,3,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,15.65,15.0,7.68,5
+Bapuji Nagar,3,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,24.929666666666666,21.65,10.255555555555556,90
+Bapuji Nagar,3,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,10.5,10.5,10.9,1
+Bapuji Nagar,3,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,16.454545454545453,15.0,9.654545454545454,11
+Bapuji Nagar,3,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,22.375,21.5,6.475,8
+Bapuji Nagar,3,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,24.492,18.25,9.791666666666666,60
+Bapuji Nagar,3,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,16.7925,10.335,9.025,4
+Bapuji Nagar,3,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,22.053783783783786,21.0,9.344594594594595,74
+Bapuji Nagar,3,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,9.625,8.25,10.875,4
+Bapuji Nagar,4,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,14.959999999999999,15.3,7.4799999999999995,5
+Bapuji Nagar,4,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,24.186195652173915,20.5,9.97391304347826,92
+Bapuji Nagar,4,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,8.33,8.33,10.6,1
+Bapuji Nagar,4,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,11.375,11.0,6.775,8
+Bapuji Nagar,4,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,23.9,23.0,6.7625,8
+Bapuji Nagar,4,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,22.94709677419355,19.0,9.291935483870969,62
+Bapuji Nagar,4,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,14.5,10.25,9.25,4
+Bapuji Nagar,4,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,21.491095890410957,21.0,9.061643835616438,73
+Bapuji Nagar,4,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,11.9,12.3,12.34,5
+Bapuji Nagar,5,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,16.9,17.0,8.360000000000001,5
+Bapuji Nagar,5,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,23.942947368421052,20.0,9.885263157894737,95
+Bapuji Nagar,5,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,7.5,7.5,8.7,1
+Bapuji Nagar,5,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,10.428571428571429,8.5,7.571428571428571,7
+Bapuji Nagar,5,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,24.9125,23.0,6.925,8
+Bapuji Nagar,5,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,24.661803278688524,20.5,9.234426229508196,61
+Bapuji Nagar,5,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,11.5,11.0,9.15,4
+Bapuji Nagar,5,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,21.634,22.5,8.882666666666667,75
+Bapuji Nagar,5,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,10.166666666666666,10.0,11.833333333333334,3
+Bapuji Nagar,6,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,16.591666666666665,12.75,8.333333333333334,6
+Bapuji Nagar,6,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,26.102717391304346,22.75,9.354347826086956,92
+Bapuji Nagar,6,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,12.071428571428571,11.5,10.299999999999999,7
+Bapuji Nagar,6,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,28.75,27.75,7.3125,8
+Bapuji Nagar,6,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,26.689230769230768,20.5,8.916923076923077,65
+Bapuji Nagar,6,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,15.5,15.5,3.1,1
+Bapuji Nagar,6,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,24.096,24.0,8.697333333333333,75
+Bapuji Nagar,6,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,11.76,10.3,9.98,5
+Bapuji Nagar,7,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,19.4,19.0,7.18,5
+Bapuji Nagar,7,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,29.173522727272726,26.15,9.970454545454546,88
+Bapuji Nagar,7,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,8.25,8.25,12.5,1
+Bapuji Nagar,7,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,15.842857142857143,15.4,10.771428571428572,14
+Bapuji Nagar,7,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,32.0375,33.15,7.9,8
+Bapuji Nagar,7,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,27.997692307692308,22.0,9.28153846153846,65
+Bapuji Nagar,7,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,16.5,16.75,13.0,4
+Bapuji Nagar,7,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,26.889714285714284,26.0,8.68,70
+Bapuji Nagar,7,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,13.5125,12.15,12.65,8
+Bapuji Nagar,8,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,21.0,20.0,6.56,5
+Bapuji Nagar,8,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,29.80797619047619,26.25,9.946428571428571,84
+Bapuji Nagar,8,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,9.25,9.25,14.1,1
+Bapuji Nagar,8,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,15.472222222222221,16.65,14.966666666666665,18
+Bapuji Nagar,8,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,34.5,40.75,8.15,6
+Bapuji Nagar,8,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,32.43559322033899,26.0,9.401694915254238,59
+Bapuji Nagar,8,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,21.5,21.5,12.4,1
+Bapuji Nagar,8,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,14.209999999999999,12.75,15.38,10
+Bapuji Nagar,8,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,28.864615384615384,28.0,9.195384615384617,65
+Bapuji Nagar,8,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,12.989285714285714,14.65,15.007142857142856,14
+Bapuji Nagar,9,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,20.75,20.0,7.375,4
+Bapuji Nagar,9,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,29.29090909090909,25.0,10.64090909090909,88
+Bapuji Nagar,9,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,15.25,15.25,7.35,2
+Bapuji Nagar,9,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,15.041904761904762,15.8,14.480952380952383,21
+Bapuji Nagar,9,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,32.642857142857146,35.5,7.271428571428571,7
+Bapuji Nagar,9,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,32.55714285714286,24.65,10.217857142857143,56
+Bapuji Nagar,9,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,26.5,26.5,12.6,1
+Bapuji Nagar,9,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,13.468181818181819,14.0,17.363636363636363,11
+Bapuji Nagar,9,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,28.513387096774192,26.0,9.76774193548387,62
+Bapuji Nagar,9,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,13.959375,13.0,15.0625,16
+Bapuji Nagar,10,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,20.0,20.5,7.425,4
+Bapuji Nagar,10,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,28.985185185185188,25.0,10.538271604938272,81
+Bapuji Nagar,10,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,18.0,18.0,11.8,2
+Bapuji Nagar,10,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,16.3872,15.3,15.496000000000002,25
+Bapuji Nagar,10,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,28.2,30.0,7.2,7
+Bapuji Nagar,10,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,25.52,21.0,10.594545454545456,55
+Bapuji Nagar,10,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,26.5,26.5,12.8,1
+Bapuji Nagar,10,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,13.372727272727273,12.3,16.363636363636363,11
+Bapuji Nagar,10,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,25.595081967213115,22.5,9.985245901639345,61
+Bapuji Nagar,10,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,15.032352941176471,15.3,14.1,17
+Bapuji Nagar,11,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,22.5,23.5,6.475,4
+Bapuji Nagar,11,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,24.899146341463414,24.25,10.71829268292683,82
+Bapuji Nagar,11,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,22.25,22.25,12.95,2
+Bapuji Nagar,11,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,17.02,16.0,15.712,25
+Bapuji Nagar,11,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,28.02857142857143,32.0,8.6,7
+Bapuji Nagar,11,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,23.33408163265306,21.5,10.655102040816328,49
+Bapuji Nagar,11,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,24.0,24.0,12.5,1
+Bapuji Nagar,11,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,25.34705882352941,15.0,14.870588235294118,17
+Bapuji Nagar,11,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,25.276785714285715,23.75,9.176785714285714,56
+Bapuji Nagar,11,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,14.187727272727273,15.15,15.186363636363637,22
+Bapuji Nagar,12,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,26.133333333333336,29.7,6.7,3
+Bapuji Nagar,12,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,27.765671641791045,27.5,10.491044776119402,67
+Bapuji Nagar,12,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,23.4,23.4,13.5,2
+Bapuji Nagar,12,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,16.604054054054053,16.5,13.921621621621622,37
+Bapuji Nagar,12,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,29.314285714285713,29.0,9.728571428571428,7
+Bapuji Nagar,12,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,24.96153846153846,24.5,9.884615384615385,39
+Bapuji Nagar,12,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,24.5,24.5,12.1,1
+Bapuji Nagar,12,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,15.574074074074074,14.8,14.08148148148148,27
+Bapuji Nagar,12,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,26.94705882352941,26.0,9.368627450980393,51
+Bapuji Nagar,12,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,14.457692307692307,15.4,14.253846153846155,26
+Bapuji Nagar,13,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,32.25,32.25,6.0,2
+Bapuji Nagar,13,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,26.46233766233766,25.5,11.361038961038961,77
+Bapuji Nagar,13,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,23.375,23.375,14.25,2
+Bapuji Nagar,13,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,16.740625,16.0,12.83125,32
+Bapuji Nagar,13,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,27.4,29.5,9.825,8
+Bapuji Nagar,13,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,22.770652173913046,21.75,10.169565217391305,46
+Bapuji Nagar,13,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,15.18695652173913,15.0,13.943478260869565,23
+Bapuji Nagar,13,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,25.94909090909091,23.7,9.952727272727273,55
+Bapuji Nagar,13,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,14.921739130434782,14.5,13.852173913043476,23
+Bapuji Nagar,14,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,25.9375,29.5,8.175,4
+Bapuji Nagar,14,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,26.650405405405408,27.0,10.893243243243244,74
+Bapuji Nagar,14,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,39.0,39.0,9.2,1
+Bapuji Nagar,14,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,15.373529411764707,15.4,14.641176470588235,34
+Bapuji Nagar,14,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,27.8375,29.5,10.012500000000001,8
+Bapuji Nagar,14,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,20.750425531914892,19.0,10.546808510638298,47
+Bapuji Nagar,14,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,17.510526315789473,15.0,13.168421052631578,19
+Bapuji Nagar,14,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,24.0,23.75,10.46896551724138,58
+Bapuji Nagar,14,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,20.938888888888886,16.0,16.055555555555557,18
+Bapuji Nagar,15,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,25.75,25.75,5.65,2
+Bapuji Nagar,15,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,24.222467532467533,24.0,11.401298701298701,77
+Bapuji Nagar,15,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,30.75,40.5,10.233333333333334,3
+Bapuji Nagar,15,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,17.627142857142857,16.3,13.008571428571429,35
+Bapuji Nagar,15,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,26.685714285714287,30.5,10.842857142857143,7
+Bapuji Nagar,15,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,24.355555555555554,24.5,10.683333333333334,36
+Bapuji Nagar,15,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,22.0,22.0,11.2,1
+Bapuji Nagar,15,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,15.148387096774194,13.0,12.635483870967741,31
+Bapuji Nagar,15,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,23.79035087719298,22.0,11.036842105263158,57
+Bapuji Nagar,15,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,18.721052631578946,16.3,13.273684210526316,19
+Bapuji Nagar,16,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,33.333333333333336,33.5,5.633333333333333,3
+Bapuji Nagar,16,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,24.697058823529414,25.25,12.670588235294119,68
+Bapuji Nagar,16,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,27.65,27.65,13.35,2
+Bapuji Nagar,16,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,18.100697674418605,15.3,12.160465116279068,43
+Bapuji Nagar,16,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,25.642857142857142,29.5,10.942857142857141,7
+Bapuji Nagar,16,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,23.876944444444447,23.75,11.122222222222222,36
+Bapuji Nagar,16,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,17.564814814814813,15.8,12.166666666666666,27
+Bapuji Nagar,16,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,24.634615384615383,24.25,10.951923076923077,52
+Bapuji Nagar,16,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,15.861904761904762,16.0,12.214285714285714,21
+Bapuji Nagar,17,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,33.5,38.5,9.55,4
+Bapuji Nagar,17,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,26.952205882352942,27.5,12.076470588235296,68
+Bapuji Nagar,17,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,16.375,16.375,9.6,2
+Bapuji Nagar,17,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,16.72475,15.9,11.3275,40
+Bapuji Nagar,17,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,28.099999999999998,31.5,9.742857142857144,7
+Bapuji Nagar,17,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,27.314285714285713,29.0,10.648571428571428,35
+Bapuji Nagar,17,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,16.0,16.0,15.7,1
+Bapuji Nagar,17,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,15.543125,13.75,11.384375,32
+Bapuji Nagar,17,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,26.609615384615385,27.0,10.305769230769231,52
+Bapuji Nagar,17,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,14.015217391304349,14.5,12.799999999999999,23
+Bapuji Nagar,18,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,27.791666666666668,25.0,8.299999999999999,6
+Bapuji Nagar,18,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,28.152023809523808,25.85,10.730952380952381,84
+Bapuji Nagar,18,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,19.864074074074075,18.0,10.488888888888889,27
+Bapuji Nagar,18,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,32.355555555555554,34.0,9.5,9
+Bapuji Nagar,18,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,32.88068181818182,27.0,10.418181818181818,44
+Bapuji Nagar,18,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,15.877272727272727,14.65,9.968181818181819,22
+Bapuji Nagar,18,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,28.289016393442626,27.0,9.744262295081967,61
+Bapuji Nagar,18,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,12.803333333333335,9.0,11.253333333333334,15
+Bapuji Nagar,19,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,28.883333333333336,26.25,8.566666666666666,6
+Bapuji Nagar,19,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,29.876595744680852,29.5,10.309574468085106,94
+Bapuji Nagar,19,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,19.605555555555554,16.25,10.422222222222222,18
+Bapuji Nagar,19,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,45.35,40.75,9.2875,8
+Bapuji Nagar,19,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,34.005208333333336,30.75,9.56875,48
+Bapuji Nagar,19,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,21.0,21.0,10.8,1
+Bapuji Nagar,19,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,15.068823529411766,11.8,11.070588235294117,17
+Bapuji Nagar,19,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,31.416666666666668,31.0,9.81904761904762,63
+Bapuji Nagar,19,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,15.101666666666667,11.9,9.625,12
+Bapuji Nagar,20,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,30.633333333333336,21.5,7.316666666666666,6
+Bapuji Nagar,20,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,32.24591397849462,29.5,10.59247311827957,93
+Bapuji Nagar,20,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,15.42,12.5,9.813333333333333,15
+Bapuji Nagar,20,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,50.1,44.15,9.4625,8
+Bapuji Nagar,20,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,30.881999999999998,29.4,10.54,50
+Bapuji Nagar,20,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,17.5,17.5,13.1,1
+Bapuji Nagar,20,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,14.39846153846154,13.0,10.592307692307692,13
+Bapuji Nagar,20,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,34.362833333333334,32.65,9.703333333333335,60
+Bapuji Nagar,20,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,18.443846153846156,16.0,9.823076923076924,13
+Bapuji Nagar,21,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,26.785714285714285,19.0,8.27142857142857,7
+Bapuji Nagar,21,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,30.46060606060606,29.0,11.115151515151515,99
+Bapuji Nagar,21,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,17.0,16.0,10.009090909090908,11
+Bapuji Nagar,21,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,50.285714285714285,35.0,10.785714285714286,7
+Bapuji Nagar,21,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,30.419148936170213,27.0,11.008510638297873,47
+Bapuji Nagar,21,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,13.5,13.5,8.7,1
+Bapuji Nagar,21,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,17.113076923076925,13.0,11.8,13
+Bapuji Nagar,21,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,31.89202898550725,30.7,10.476811594202898,69
+Bapuji Nagar,21,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,15.521666666666667,14.65,8.85,6
+Bapuji Nagar,22,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,23.17142857142857,16.0,9.62857142857143,7
+Bapuji Nagar,22,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,29.087444444444444,27.75,11.017777777777779,90
+Bapuji Nagar,22,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,14.862941176470589,14.0,11.270588235294117,17
+Bapuji Nagar,22,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,42.666666666666664,34.5,10.444444444444445,9
+Bapuji Nagar,22,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,27.64090909090909,23.0,11.145454545454545,55
+Bapuji Nagar,22,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,14.06875,10.5,10.2,8
+Bapuji Nagar,22,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,27.911267605633803,26.5,10.939436619718311,71
+Bapuji Nagar,22,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,11.825,12.15,7.45,4
+Bapuji Nagar,23,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,22.28333333333333,15.7,11.016666666666666,6
+Bapuji Nagar,23,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,26.00438775510204,23.65,11.225510204081631,98
+Bapuji Nagar,23,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,17.72,14.75,9.65,10
+Bapuji Nagar,23,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,37.82222222222222,30.5,10.711111111111112,9
+Bapuji Nagar,23,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,24.538474576271184,19.7,11.442372881355933,59
+Bapuji Nagar,23,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,12.6,13.0,9.76,5
+Bapuji Nagar,23,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,26.065211267605637,24.0,11.043661971830986,71
+Bapuji Nagar,23,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,6.4175,7.335,10.45,4
+Hebbal,0,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,45.0,35.0,7.266666666666667,3
+Hebbal,0,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,37.4435294117647,35.0,10.374117647058823,85
+Hebbal,0,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,29.0,29.0,6.1,2
+Hebbal,0,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,17.65625,13.0,8.09375,16
+Hebbal,0,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,32.833333333333336,33.0,9.799999999999999,6
+Hebbal,0,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,36.67142857142857,36.0,10.811111111111112,63
+Hebbal,0,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,23.5,23.5,7.3,1
+Hebbal,0,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,12.375,13.5,10.625,8
+Hebbal,0,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,36.59285714285714,33.0,10.621428571428572,70
+Hebbal,0,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,14.214285714285714,8.5,8.742857142857144,7
+Hebbal,1,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,38.875,34.0,6.050000000000001,4
+Hebbal,1,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,33.974368932038836,31.0,10.01747572815534,103
+Hebbal,1,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,27.0,27.0,4.5,2
+Hebbal,1,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,13.016666666666667,11.0,10.28,15
+Hebbal,1,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,28.1875,24.25,8.6125,8
+Hebbal,1,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,34.97013888888889,29.65,10.24861111111111,72
+Hebbal,1,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,11.875,9.0,8.5125,8
+Hebbal,1,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,34.09487804878049,30.0,9.841463414634147,82
+Hebbal,1,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,15.991666666666667,9.35,11.65,6
+Hebbal,2,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,37.1,33.5,5.84,5
+Hebbal,2,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,32.06428571428572,27.0,9.969523809523809,105
+Hebbal,2,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,11.0,11.0,10.3,1
+Hebbal,2,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,11.979166666666666,10.75,9.575,12
+Hebbal,2,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,27.90625,29.0,8.275,8
+Hebbal,2,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,33.656486486486486,27.6,9.927027027027027,74
+Hebbal,2,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,6.583333333333333,4.25,8.733333333333334,3
+Hebbal,2,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,32.81728395061728,29.5,9.427160493827161,81
+Hebbal,2,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,23.7,27.0,11.2,5
+Hebbal,3,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,34.4,29.0,6.82,5
+Hebbal,3,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,31.258113207547172,26.0,9.809433962264151,106
+Hebbal,3,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,14.5,14.5,10.9,1
+Hebbal,3,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,12.909090909090908,10.5,8.899999999999999,11
+Hebbal,3,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,27.28125,26.5,7.6875,8
+Hebbal,3,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,34.039014084507045,26.0,9.573239436619719,71
+Hebbal,3,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,10.9,11.5,9.040000000000001,5
+Hebbal,3,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,31.932183908045975,26.5,9.495402298850575,87
+Hebbal,3,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,24.933333333333334,24.5,5.666666666666667,3
+Hebbal,4,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,33.62,30.0,6.8,5
+Hebbal,4,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,31.433669724770642,26.5,9.588073394495412,109
+Hebbal,4,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,21.3,21.3,10.6,1
+Hebbal,4,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,14.785714285714286,10.5,5.642857142857143,7
+Hebbal,4,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,25.1,24.0,7.9624999999999995,8
+Hebbal,4,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,34.128169014084506,26.5,9.270422535211269,71
+Hebbal,4,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,9.25,9.0,8.06,5
+Hebbal,4,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,31.65081395348837,27.9,9.231395348837209,86
+Hebbal,4,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,22.5,23.5,10.64,5
+Hebbal,5,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,34.3,30.5,7.960000000000001,5
+Hebbal,5,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,32.762616822429905,28.5,9.42803738317757,107
+Hebbal,5,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,12.5,12.5,8.7,1
+Hebbal,5,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,12.885714285714286,9.5,6.799999999999999,7
+Hebbal,5,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,30.114285714285717,31.5,7.042857142857143,7
+Hebbal,5,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,33.36486486486486,28.25,9.435135135135136,74
+Hebbal,5,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,8.1875,8.0,9.15,4
+Hebbal,5,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,32.59360465116279,30.0,9.167441860465116,86
+Hebbal,5,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,9.125,4.5,10.975,4
+Hebbal,6,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,32.416666666666664,30.0,8.0,6
+Hebbal,6,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,34.81818181818182,30.5,9.191818181818181,110
+Hebbal,6,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,9.785714285714286,8.0,10.299999999999999,7
+Hebbal,6,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,29.375,35.25,7.737500000000001,8
+Hebbal,6,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,34.14671052631579,30.25,9.223684210526315,76
+Hebbal,6,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,20.666666666666668,17.0,7.1000000000000005,3
+Hebbal,6,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,35.08176470588235,30.0,8.654117647058824,85
+Hebbal,6,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,8.333333333333334,7.0,7.2,3
+Hebbal,7,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,40.0,35.0,7.4799999999999995,5
+Hebbal,7,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,39.047636363636364,34.0,9.717272727272729,110
+Hebbal,7,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,13.442307692307692,10.5,11.207692307692307,13
+Hebbal,7,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,31.46875,36.0,8.725,8
+Hebbal,7,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,37.46426666666667,32.5,9.372,75
+Hebbal,7,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,11.75,12.0,13.0,4
+Hebbal,7,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,38.175,36.75,8.94390243902439,82
+Hebbal,7,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,11.49,5.335,11.125,8
+Hebbal,8,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,44.9,36.5,6.720000000000001,5
+Hebbal,8,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,40.63212962962963,36.25,9.91388888888889,108
+Hebbal,8,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,10.889999999999999,11.0,14.68,15
+Hebbal,8,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,41.53333333333333,46.1,8.15,6
+Hebbal,8,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,41.61214285714286,37.0,9.637142857142857,70
+Hebbal,8,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,13.75,13.75,13.55,2
+Hebbal,8,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,9.095454545454546,7.0,15.054545454545455,11
+Hebbal,8,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,40.093125,36.0,9.276250000000001,80
+Hebbal,8,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,15.072727272727274,9.5,14.072727272727274,11
+Hebbal,9,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,51.25,44.0,7.2749999999999995,4
+Hebbal,9,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,40.2890291262136,37.0,10.309708737864078,103
+Hebbal,9,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,22.0,22.0,3.7,1
+Hebbal,9,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,18.472857142857144,13.3,13.304761904761904,21
+Hebbal,9,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,42.199999999999996,46.75,7.583333333333333,6
+Hebbal,9,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,40.10970588235294,33.5,10.23235294117647,68
+Hebbal,9,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,15.15,15.15,14.0,2
+Hebbal,9,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,12.946153846153846,9.0,16.676923076923078,13
+Hebbal,9,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,39.58012987012987,37.0,9.692207792207792,77
+Hebbal,9,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,15.121875,9.25,14.425,16
+Hebbal,10,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,49.25,45.5,6.949999999999999,4
+Hebbal,10,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,38.80869565217392,36.5,10.254347826086956,92
+Hebbal,10,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,28.0,28.0,7.4,1
+Hebbal,10,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,18.244444444444444,13.3,14.61111111111111,27
+Hebbal,10,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,34.142857142857146,36.5,8.214285714285714,7
+Hebbal,10,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,36.4453125,29.75,10.36875,64
+Hebbal,10,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,18.5,18.5,12.8,1
+Hebbal,10,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,17.1225,13.15,16.508333333333333,12
+Hebbal,10,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,36.70763157894737,36.75,9.898684210526316,76
+Hebbal,10,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,14.05,8.5,13.81875,16
+Hebbal,11,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,48.325,49.0,5.85,4
+Hebbal,11,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,34.41,32.5,10.558510638297872,94
+Hebbal,11,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,36.0,36.0,6.2,1
+Hebbal,11,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,17.094827586206897,10.0,15.637931034482758,29
+Hebbal,11,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,34.38333333333333,35.65,8.316666666666666,6
+Hebbal,11,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,34.85310344827586,31.5,10.467241379310344,58
+Hebbal,11,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,13.75,13.75,14.4,2
+Hebbal,11,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,14.20388888888889,8.835,14.483333333333333,18
+Hebbal,11,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,36.04680555555555,36.25,9.329166666666667,72
+Hebbal,11,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,11.4875,7.585,15.715,20
+Hebbal,12,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,45.4,45.8,5.375,4
+Hebbal,12,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,36.78409638554217,38.5,10.404819277108434,83
+Hebbal,12,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,37.0,37.0,7.5,1
+Hebbal,12,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,14.564102564102564,12.5,13.487179487179487,39
+Hebbal,12,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,35.471428571428575,37.5,9.728571428571428,7
+Hebbal,12,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,33.323541666666664,35.75,9.845833333333333,48
+Hebbal,12,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,12.0,12.0,14.25,2
+Hebbal,12,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,13.373846153846156,11.0,14.01923076923077,26
+Hebbal,12,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,38.3371875,38.0,9.321875,64
+Hebbal,12,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,12.607142857142858,9.5,13.37857142857143,28
+Hebbal,13,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,43.333333333333336,41.0,5.0,3
+Hebbal,13,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,31.941170212765954,32.75,11.001063829787233,94
+Hebbal,13,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,41.5,41.5,9.4,1
+Hebbal,13,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,15.307586206896552,15.0,12.803448275862069,29
+Hebbal,13,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,30.75,34.75,9.825,8
+Hebbal,13,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,29.48263157894737,27.0,10.114035087719298,57
+Hebbal,13,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,2.33,2.33,15.7,1
+Hebbal,13,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,13.591304347826087,11.0,14.130434782608695,23
+Hebbal,13,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,35.28384615384615,35.0,9.88,65
+Hebbal,13,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,12.419642857142858,10.5,13.489285714285714,28
+Hebbal,14,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,37.5,43.0,7.859999999999999,5
+Hebbal,14,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,31.378045977011492,31.0,10.659770114942528,87
+Hebbal,14,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,40.5,40.5,9.2,1
+Hebbal,14,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,13.81060606060606,12.0,14.133333333333333,33
+Hebbal,14,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,29.0375,33.65,10.012500000000001,8
+Hebbal,14,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,27.633636363636363,23.5,10.572727272727272,55
+Hebbal,14,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,3.5,3.5,16.5,1
+Hebbal,14,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,20.152631578947368,11.8,12.663157894736841,19
+Hebbal,14,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,32.39718309859155,33.5,10.201408450704225,71
+Hebbal,14,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,17.81,11.05,15.565000000000001,20
+Hebbal,15,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,41.93333333333333,46.3,6.0,3
+Hebbal,15,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,30.921739130434784,29.15,10.994565217391305,92
+Hebbal,15,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,33.5,38.0,10.233333333333334,3
+Hebbal,15,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,14.13483870967742,9.5,13.0,31
+Hebbal,15,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,27.24285714285714,31.0,10.842857142857143,7
+Hebbal,15,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,33.48979591836735,32.0,11.0,49
+Hebbal,15,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,22.835,22.835,13.75,2
+Hebbal,15,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,13.812857142857142,10.5,12.835714285714285,28
+Hebbal,15,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,35.37285714285714,32.5,11.035714285714286,70
+Hebbal,15,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,19.594545454545454,11.75,12.27727272727273,22
+Hebbal,16,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,46.875,48.25,6.025,4
+Hebbal,16,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,34.22109756097561,32.75,12.032926829268293,82
+Hebbal,16,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,21.5,21.5,13.35,2
+Hebbal,16,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,15.584736842105263,11.5,11.810526315789474,38
+Hebbal,16,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,25.928571428571427,29.0,10.942857142857141,7
+Hebbal,16,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,32.25714285714285,30.5,11.210204081632652,49
+Hebbal,16,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,7.75,7.75,14.9,1
+Hebbal,16,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,14.082692307692307,12.0,12.596153846153847,26
+Hebbal,16,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,37.59046153846154,33.5,10.76,65
+Hebbal,16,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,16.69782608695652,11.0,11.443478260869565,23
+Hebbal,17,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,44.8,48.5,9.32,5
+Hebbal,17,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,33.47701149425287,34.0,11.133333333333333,87
+Hebbal,17,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,19.875,19.875,9.6,2
+Hebbal,17,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,16.049375,11.5,11.478125,32
+Hebbal,17,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,26.657142857142855,25.5,9.742857142857144,7
+Hebbal,17,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,35.63408163265306,36.5,10.722448979591837,49
+Hebbal,17,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,9.0,9.0,15.7,1
+Hebbal,17,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,11.666774193548388,9.5,11.603225806451613,31
+Hebbal,17,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,34.926153846153845,35.0,10.013846153846153,65
+Hebbal,17,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,14.68409090909091,8.75,13.0,22
+Hebbal,18,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,39.06428571428571,46.5,8.185714285714285,7
+Hebbal,18,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,35.008817204301074,36.0,10.379569892473118,93
+Hebbal,18,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,23.607692307692307,16.5,9.903846153846153,26
+Hebbal,18,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,29.5375,30.15,9.675,8
+Hebbal,18,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,39.29298245614035,37.0,10.008771929824562,57
+Hebbal,18,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,14.040476190476191,11.3,10.095238095238095,21
+Hebbal,18,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,36.825675675675676,34.75,9.522972972972974,74
+Hebbal,18,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,10.307692307692308,8.0,11.192307692307692,13
+Hebbal,19,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,40.535714285714285,41.5,8.6,7
+Hebbal,19,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,36.95990566037736,37.5,10.06132075471698,106
+Hebbal,19,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,22.305,11.9,9.957142857142857,14
+Hebbal,19,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,51.114285714285714,44.5,9.4,7
+Hebbal,19,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,40.247499999999995,41.5,9.58,60
+Hebbal,19,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,7.5,7.5,10.8,1
+Hebbal,19,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,13.115882352941176,10.5,10.664705882352942,17
+Hebbal,19,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,41.378571428571426,39.0,9.64025974025974,77
+Hebbal,19,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,10.68,6.75,10.34,10
+Hebbal,20,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,47.535714285714285,39.5,7.514285714285714,7
+Hebbal,20,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,40.14626168224299,40.5,10.3196261682243,107
+Hebbal,20,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,11.75,11.0,8.028571428571428,7
+Hebbal,20,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,65.57142857142857,55.0,9.342857142857143,7
+Hebbal,20,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,39.441875,43.75,10.5875,64
+Hebbal,20,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,9.0,9.0,13.1,1
+Hebbal,20,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,14.846153846153847,11.0,8.984615384615385,13
+Hebbal,20,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,47.317567567567565,47.25,9.497297297297298,74
+Hebbal,20,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,10.466666666666667,8.125,10.033333333333333,12
+Hebbal,21,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,42.03125,27.75,8.4,8
+Hebbal,21,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,40.62733944954129,41.0,11.057798165137614,109
+Hebbal,21,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,23.955384615384617,18.0,9.523076923076923,13
+Hebbal,21,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,75.14285714285714,51.0,10.685714285714285,7
+Hebbal,21,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,41.31,41.0,10.506349206349206,63
+Hebbal,21,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,4.0,4.0,8.7,1
+Hebbal,21,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,13.461538461538462,8.33,10.976923076923075,13
+Hebbal,21,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,43.22821428571429,40.0,10.308333333333334,84
+Hebbal,21,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,13.0,11.0,8.85,6
+Hebbal,22,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,36.00625,23.0,9.8125,8
+Hebbal,22,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,40.8585,39.0,10.927999999999999,100
+Hebbal,22,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,20.625,13.75,10.477777777777778,18
+Hebbal,22,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,61.1875,45.5,10.0125,8
+Hebbal,22,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,38.79710144927536,36.0,10.85072463768116,69
+Hebbal,22,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,12.0625,9.125,8.825,8
+Hebbal,22,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,39.32411764705883,38.5,10.723529411764705,85
+Hebbal,22,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,8.8125,6.375,7.45,4
+Hebbal,23,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,33.4375,23.35,10.675,8
+Hebbal,23,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,36.759189189189186,35.0,11.132432432432433,111
+Hebbal,23,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,23.47,20.5,9.370000000000001,10
+Hebbal,23,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,59.58571428571429,41.5,9.971428571428572,7
+Hebbal,23,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,34.85405405405405,28.5,10.92027027027027,74
+Hebbal,23,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,14.0,11.5,7.9,4
+Hebbal,23,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,37.529883720930236,37.65,10.986046511627906,86
+Hebbal,23,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,16.394,9.0,11.0,5
+Hombegowda Nagar,0,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,42.0,34.5,8.875,4
+Hombegowda Nagar,0,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,31.600980392156863,30.0,10.6,102
+Hombegowda Nagar,0,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,39.0,39.0,8.1,2
+Hombegowda Nagar,0,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,16.285714285714285,17.0,10.049999999999999,14
+Hombegowda Nagar,0,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,43.92857142857143,37.0,9.471428571428572,7
+Hombegowda Nagar,0,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,30.4536231884058,28.0,10.917391304347825,69
+Hombegowda Nagar,0,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,24.5,24.5,7.3,1
+Hombegowda Nagar,0,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,14.166666666666666,13.5,10.966666666666667,6
+Hombegowda Nagar,0,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,32.169333333333334,32.0,10.628,75
+Hombegowda Nagar,0,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,18.214285714285715,10.5,10.185714285714285,7
+Hombegowda Nagar,1,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,36.825,32.5,8.85,4
+Hombegowda Nagar,1,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,30.712288135593223,29.65,10.274576271186442,118
+Hombegowda Nagar,1,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,34.75,34.75,4.5,2
+Hombegowda Nagar,1,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,15.816666666666668,13.75,11.225,12
+Hombegowda Nagar,1,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,38.31111111111111,38.0,8.31111111111111,9
+Hombegowda Nagar,1,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,29.511688311688314,26.0,10.372727272727273,77
+Hombegowda Nagar,1,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,16.4,15.0,8.6,5
+Hombegowda Nagar,1,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,30.577906976744185,30.85,10.063953488372093,86
+Hombegowda Nagar,1,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,16.172222222222224,11.0,12.422222222222222,9
+Hombegowda Nagar,2,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,35.06,34.5,7.9799999999999995,5
+Hombegowda Nagar,2,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,30.98220338983051,27.0,10.25677966101695,118
+Hombegowda Nagar,2,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,10.0,10.0,10.3,1
+Hombegowda Nagar,2,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,11.075454545454546,11.0,10.918181818181818,11
+Hombegowda Nagar,2,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,37.31111111111111,32.0,8.100000000000001,9
+Hombegowda Nagar,2,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,28.791772151898737,25.3,10.082278481012658,79
+Hombegowda Nagar,2,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,11.5,11.5,12.8,2
+Hombegowda Nagar,2,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,29.769186046511628,27.5,9.636046511627908,86
+Hombegowda Nagar,2,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,21.375,13.75,13.200000000000001,6
+Hombegowda Nagar,3,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,34.760000000000005,36.0,9.2,5
+Hombegowda Nagar,3,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,30.62125,25.25,10.075833333333332,120
+Hombegowda Nagar,3,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,10.0,10.0,10.9,1
+Hombegowda Nagar,3,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,11.6,11.75,10.36,10
+Hombegowda Nagar,3,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,37.36666666666667,33.0,7.088888888888889,9
+Hombegowda Nagar,3,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,28.262820512820515,22.75,9.817948717948717,78
+Hombegowda Nagar,3,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,11.3125,10.375,10.25,4
+Hombegowda Nagar,3,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,30.31931818181818,28.25,9.706818181818182,88
+Hombegowda Nagar,3,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,8.85,8.0,11.3,5
+Hombegowda Nagar,4,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,34.64,33.7,8.92,5
+Hombegowda Nagar,4,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,29.62144,23.7,9.844,125
+Hombegowda Nagar,4,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,9.5,9.5,10.6,1
+Hombegowda Nagar,4,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,10.1,10.0,6.56,5
+Hombegowda Nagar,4,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,37.22222222222222,36.0,7.366666666666666,9
+Hombegowda Nagar,4,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,28.107236842105266,22.25,9.392105263157895,76
+Hombegowda Nagar,4,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,14.984,13.0,9.540000000000001,5
+Hombegowda Nagar,4,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,29.96360465116279,27.0,9.491860465116279,86
+Hombegowda Nagar,4,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,11.15,7.0,13.719999999999999,5
+Hombegowda Nagar,5,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,33.660000000000004,31.0,10.06,5
+Hombegowda Nagar,5,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,29.994603174603174,25.25,9.763492063492064,126
+Hombegowda Nagar,5,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,9.5,9.5,8.7,1
+Hombegowda Nagar,5,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,13.7,12.9,10.424999999999999,4
+Hombegowda Nagar,5,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,37.18888888888889,33.0,7.411111111111111,9
+Hombegowda Nagar,5,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,28.201923076923077,24.5,9.453846153846154,78
+Hombegowda Nagar,5,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,13.833333333333334,11.5,10.6,3
+Hombegowda Nagar,5,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,28.889325842696632,25.5,9.285393258426966,89
+Hombegowda Nagar,5,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,10.0625,9.0,10.975,4
+Hombegowda Nagar,6,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,32.083333333333336,32.75,9.1,6
+Hombegowda Nagar,6,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,31.417857142857144,27.25,9.411111111111111,126
+Hombegowda Nagar,6,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,14.4,16.0,12.72,5
+Hombegowda Nagar,6,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,39.388888888888886,38.5,7.622222222222222,9
+Hombegowda Nagar,6,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,29.772435897435898,24.5,9.262820512820513,78
+Hombegowda Nagar,6,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,19.5,18.5,7.1000000000000005,3
+Hombegowda Nagar,6,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,30.2267032967033,25.0,8.883516483516484,91
+Hombegowda Nagar,6,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,9.325,7.75,11.9,4
+Hombegowda Nagar,7,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,37.3,34.5,8.2,5
+Hombegowda Nagar,7,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,34.538429752066115,32.0,9.906611570247934,121
+Hombegowda Nagar,7,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,16.5,16.5,12.5,1
+Hombegowda Nagar,7,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,17.853846153846153,17.3,11.884615384615385,13
+Hombegowda Nagar,7,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,43.44444444444444,41.5,8.399999999999999,9
+Hombegowda Nagar,7,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,31.941875,24.75,9.446250000000001,80
+Hombegowda Nagar,7,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,18.0,17.0,14.433333333333332,3
+Hombegowda Nagar,7,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,32.54034090909091,32.5,9.174999999999999,88
+Hombegowda Nagar,7,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,13.741666666666667,13.5,13.799999999999999,6
+Hombegowda Nagar,8,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,38.9,35.5,7.659999999999999,5
+Hombegowda Nagar,8,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,35.325641025641026,34.0,9.978632478632479,117
+Hombegowda Nagar,8,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,14.3,14.3,14.1,1
+Hombegowda Nagar,8,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,18.805882352941175,19.0,16.394117647058824,17
+Hombegowda Nagar,8,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,48.833333333333336,44.25,8.15,6
+Hombegowda Nagar,8,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,35.31944444444444,29.5,9.581944444444444,72
+Hombegowda Nagar,8,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,19.5,19.5,13.55,2
+Hombegowda Nagar,8,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,15.436363636363637,14.0,15.518181818181818,11
+Hombegowda Nagar,8,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,36.8780487804878,33.5,9.33780487804878,82
+Hombegowda Nagar,8,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,16.939285714285713,16.75,15.535714285714286,14
+Hombegowda Nagar,9,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,40.46,38.0,7.519999999999999,5
+Hombegowda Nagar,9,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,33.75929203539823,31.0,10.607964601769911,113
+Hombegowda Nagar,9,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,13.3,13.3,11.0,1
+Hombegowda Nagar,9,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,21.056250000000002,20.65,14.987499999999999,24
+Hombegowda Nagar,9,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,45.785714285714285,48.7,7.271428571428571,7
+Hombegowda Nagar,9,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,33.5169014084507,29.0,10.270422535211269,71
+Hombegowda Nagar,9,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,18.25,18.25,14.0,2
+Hombegowda Nagar,9,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,15.092857142857143,14.65,16.7,14
+Hombegowda Nagar,9,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,34.85625,30.25,10.13125,80
+Hombegowda Nagar,9,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,22.61875,22.0,14.63125,16
+Hombegowda Nagar,10,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,40.96,39.3,7.58,5
+Hombegowda Nagar,10,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,32.60485436893204,31.5,10.555339805825243,103
+Hombegowda Nagar,10,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,17.3,17.3,16.2,1
+Hombegowda Nagar,10,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,19.39032258064516,17.3,15.448387096774193,31
+Hombegowda Nagar,10,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,38.95,47.25,8.15,8
+Hombegowda Nagar,10,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,31.40735294117647,29.0,10.289705882352942,68
+Hombegowda Nagar,10,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,18.5,18.5,12.8,1
+Hombegowda Nagar,10,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,16.992307692307694,15.0,16.607692307692307,13
+Hombegowda Nagar,10,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,30.189873417721518,28.0,10.153164556962025,79
+Hombegowda Nagar,10,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,24.23611111111111,23.0,13.705555555555556,18
+Hombegowda Nagar,11,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,39.86,40.0,6.619999999999999,5
+Hombegowda Nagar,11,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,30.485148514851485,30.0,10.697029702970298,101
+Hombegowda Nagar,11,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,19.0,19.0,19.7,1
+Hombegowda Nagar,11,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,20.04375,17.75,15.643749999999999,32
+Hombegowda Nagar,11,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,41.214285714285715,47.5,8.6,7
+Hombegowda Nagar,11,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,28.651612903225807,24.6,10.62258064516129,62
+Hombegowda Nagar,11,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,17.4,17.4,14.4,2
+Hombegowda Nagar,11,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,18.394444444444446,17.25,14.677777777777777,18
+Hombegowda Nagar,11,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,29.84246575342466,29.0,9.452054794520548,73
+Hombegowda Nagar,11,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,18.766666666666666,15.9,15.166666666666666,24
+Hombegowda Nagar,12,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,36.0,33.3,6.4,5
+Hombegowda Nagar,12,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,30.974725274725273,30.7,10.553846153846154,91
+Hombegowda Nagar,12,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,19.5,19.5,19.5,1
+Hombegowda Nagar,12,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,18.8953488372093,18.5,14.0,43
+Hombegowda Nagar,12,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,39.67142857142857,47.5,9.728571428571428,7
+Hombegowda Nagar,12,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,28.76851851851852,27.65,10.055555555555555,54
+Hombegowda Nagar,12,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,17.4,17.4,14.25,2
+Hombegowda Nagar,12,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,18.184,19.0,14.26,25
+Hombegowda Nagar,12,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,29.868115942028986,30.5,9.495652173913044,69
+Hombegowda Nagar,12,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,18.555555555555557,18.3,14.014814814814814,27
+Hombegowda Nagar,13,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,45.0,44.5,5.0,3
+Hombegowda Nagar,13,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,28.96747572815534,27.7,11.224271844660194,103
+Hombegowda Nagar,13,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,11.3,11.3,19.1,1
+Hombegowda Nagar,13,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,19.11111111111111,17.65,13.26388888888889,36
+Hombegowda Nagar,13,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,35.1875,42.75,9.825,8
+Hombegowda Nagar,13,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,28.34918032786885,25.0,10.28688524590164,61
+Hombegowda Nagar,13,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,17.0,17.0,15.7,1
+Hombegowda Nagar,13,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,17.177272727272726,16.15,14.713636363636363,22
+Hombegowda Nagar,13,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,29.303857142857144,27.4,9.85,70
+Hombegowda Nagar,13,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,18.607407407407408,17.0,13.725925925925925,27
+Hombegowda Nagar,14,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,36.5,38.0,7.859999999999999,5
+Hombegowda Nagar,14,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,29.709793814432988,27.3,10.990721649484534,97
+Hombegowda Nagar,14,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,18.2525,16.8,14.544999999999998,40
+Hombegowda Nagar,14,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,32.85,40.25,10.012500000000001,8
+Hombegowda Nagar,14,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,27.21532258064516,23.4,10.666129032258064,62
+Hombegowda Nagar,14,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,13.8,13.8,16.5,1
+Hombegowda Nagar,14,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,19.845,18.6,13.775,20
+Hombegowda Nagar,14,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,28.144594594594594,24.15,10.348648648648648,74
+Hombegowda Nagar,14,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,17.650000000000002,16.15,15.29090909090909,22
+Hombegowda Nagar,15,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,37.5,41.5,6.0,3
+Hombegowda Nagar,15,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,29.007142857142856,25.85,11.403061224489797,98
+Hombegowda Nagar,15,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,38.0,38.0,10.4,2
+Hombegowda Nagar,15,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,18.177027027027027,18.0,13.194594594594594,37
+Hombegowda Nagar,15,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,30.8,39.5,10.842857142857143,7
+Hombegowda Nagar,15,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,28.994444444444444,26.75,11.107407407407406,54
+Hombegowda Nagar,15,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,29.65,29.65,13.75,2
+Hombegowda Nagar,15,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,17.79285714285714,18.0,13.189285714285715,28
+Hombegowda Nagar,15,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,27.5408,24.0,11.038666666666666,75
+Hombegowda Nagar,15,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,18.797727272727272,17.0,12.413636363636364,22
+Hombegowda Nagar,16,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,42.75,44.5,6.025,4
+Hombegowda Nagar,16,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,29.005681818181817,27.0,12.168181818181818,88
+Hombegowda Nagar,16,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,15.3,15.3,18.0,1
+Hombegowda Nagar,16,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,19.253658536585366,18.8,12.841463414634147,41
+Hombegowda Nagar,16,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,30.857142857142858,37.0,10.942857142857141,7
+Hombegowda Nagar,16,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,28.826999999999998,27.4,11.404000000000002,50
+Hombegowda Nagar,16,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,18.5,18.5,14.9,1
+Hombegowda Nagar,16,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,18.938709677419357,18.8,12.648387096774194,31
+Hombegowda Nagar,16,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,27.168142857142858,25.0,10.902857142857144,70
+Hombegowda Nagar,16,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,20.216666666666665,17.75,11.479166666666666,24
+Hombegowda Nagar,17,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,37.75,35.75,9.925,4
+Hombegowda Nagar,17,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,29.072340425531916,27.5,11.441489361702128,94
+Hombegowda Nagar,17,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,28.0,28.0,9.6,2
+Hombegowda Nagar,17,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,21.66578947368421,18.75,11.473684210526315,38
+Hombegowda Nagar,17,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,32.5,44.0,9.742857142857144,7
+Hombegowda Nagar,17,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,31.162745098039213,29.0,10.568627450980392,51
+Hombegowda Nagar,17,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,14.7,14.7,15.7,1
+Hombegowda Nagar,17,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,19.3421875,18.75,11.54375,32
+Hombegowda Nagar,17,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,29.24391304347826,28.0,10.504347826086956,69
+Hombegowda Nagar,17,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,19.8625,18.75,12.75,24
+Hombegowda Nagar,18,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,40.5,40.0,8.799999999999999,6
+Hombegowda Nagar,18,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,30.29615384615385,29.0,10.478846153846153,104
+Hombegowda Nagar,18,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,25.95925925925926,22.5,10.44814814814815,27
+Hombegowda Nagar,18,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,36.47777777777778,46.5,9.5,9
+Hombegowda Nagar,18,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,33.56349206349206,28.0,10.068253968253968,63
+Hombegowda Nagar,18,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,17.588636363636365,15.25,10.181818181818182,22
+Hombegowda Nagar,18,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,32.31363636363636,30.0,9.697402597402599,77
+Hombegowda Nagar,18,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,17.32,16.5,10.426666666666668,15
+Hombegowda Nagar,19,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,41.833333333333336,44.0,9.266666666666667,6
+Hombegowda Nagar,19,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,32.71391304347826,30.0,10.29304347826087,115
+Hombegowda Nagar,19,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,24.123529411764707,20.5,10.676470588235293,17
+Hombegowda Nagar,19,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,48.3375,52.85,9.2875,8
+Hombegowda Nagar,19,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,35.17164179104478,29.0,9.482089552238806,67
+Hombegowda Nagar,19,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,23.3,23.3,10.8,1
+Hombegowda Nagar,19,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,19.18235294117647,19.5,11.311764705882354,17
+Hombegowda Nagar,19,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,36.292682926829265,32.15,9.918292682926829,82
+Hombegowda Nagar,19,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,20.87272727272727,16.0,9.772727272727273,11
+Hombegowda Nagar,20,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,38.166666666666664,44.5,7.783333333333334,6
+Hombegowda Nagar,20,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,35.65714285714286,33.0,10.450892857142858,112
+Hombegowda Nagar,20,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,18.985714285714288,18.75,9.707142857142857,14
+Hombegowda Nagar,20,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,54.725,54.65,9.4625,8
+Hombegowda Nagar,20,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,35.274647887323944,31.0,10.47323943661972,71
+Hombegowda Nagar,20,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,22.3,22.3,13.1,1
+Hombegowda Nagar,20,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,19.65357142857143,17.75,9.964285714285714,14
+Hombegowda Nagar,20,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,38.40886075949367,33.5,9.974683544303797,79
+Hombegowda Nagar,20,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,22.376923076923074,19.0,10.353846153846153,13
+Hombegowda Nagar,21,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,33.5,33.5,8.77142857142857,7
+Hombegowda Nagar,21,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,35.525652173913045,33.0,11.049565217391304,115
+Hombegowda Nagar,21,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,22.484615384615385,21.5,9.676923076923076,13
+Hombegowda Nagar,21,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,59.625,56.75,11.0125,8
+Hombegowda Nagar,21,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,35.515492957746474,30.0,10.446478873239437,71
+Hombegowda Nagar,21,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,19.5,19.5,8.7,1
+Hombegowda Nagar,21,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,19.791666666666668,18.35,11.666666666666666,12
+Hombegowda Nagar,21,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,37.39666666666666,36.0,10.483333333333333,90
+Hombegowda Nagar,21,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,19.94,21.5,7.3,5
+Hombegowda Nagar,22,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,30.32857142857143,24.0,10.028571428571428,7
+Hombegowda Nagar,22,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,35.82222222222222,33.25,10.976851851851851,108
+Hombegowda Nagar,22,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,17.657894736842106,14.5,11.34736842105263,19
+Hombegowda Nagar,22,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,56.27777777777778,50.0,10.444444444444445,9
+Hombegowda Nagar,22,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,34.6935064935065,29.5,10.722077922077922,77
+Hombegowda Nagar,22,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,18.3,18.3,11.257142857142856,7
+Hombegowda Nagar,22,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,36.22450549450549,35.0,10.842857142857143,91
+Hombegowda Nagar,22,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,14.333333333333334,12.5,8.366666666666667,3
+Hombegowda Nagar,23,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,27.942857142857143,21.0,10.857142857142858,7
+Hombegowda Nagar,23,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,32.34101694915254,29.65,11.283050847457629,118
+Hombegowda Nagar,23,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,14.55,13.15,10.51,10
+Hombegowda Nagar,23,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,54.27777777777778,44.3,10.711111111111112,9
+Hombegowda Nagar,23,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,31.871585365853655,27.35,10.998780487804877,82
+Hombegowda Nagar,23,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,14.0,12.0,11.833333333333334,3
+Hombegowda Nagar,23,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,34.926483516483515,34.0,10.96923076923077,91
+Hombegowda Nagar,23,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,17.425,14.35,10.55,4
+Jayanagar 5th Block,0,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,45.875,44.5,8.875,4
+Jayanagar 5th Block,0,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,40.82736842105263,36.0,10.466315789473684,95
+Jayanagar 5th Block,0,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,33.666666666666664,25.0,5.733333333333333,3
+Jayanagar 5th Block,0,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,37.73076923076923,24.0,8.907692307692308,13
+Jayanagar 5th Block,0,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,34.0,38.0,9.471428571428572,7
+Jayanagar 5th Block,0,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,40.905970149253726,39.0,10.607462686567166,67
+Jayanagar 5th Block,0,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,33.0,33.0,7.3,1
+Jayanagar 5th Block,0,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,19.5,17.0,10.3,9
+Jayanagar 5th Block,0,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,40.92465753424658,39.0,10.490410958904109,73
+Jayanagar 5th Block,0,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,23.61111111111111,17.0,9.366666666666667,9
+Jayanagar 5th Block,1,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,40.06,34.5,7.38,5
+Jayanagar 5th Block,1,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,38.824999999999996,35.0,10.202586206896552,116
+Jayanagar 5th Block,1,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,37.5,37.5,4.5,2
+Jayanagar 5th Block,1,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,28.092307692307692,24.0,11.2,13
+Jayanagar 5th Block,1,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,34.25555555555556,36.0,8.31111111111111,9
+Jayanagar 5th Block,1,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,41.12405063291139,38.5,10.284810126582279,79
+Jayanagar 5th Block,1,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,20.5375,16.0,8.2,8
+Jayanagar 5th Block,1,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,39.21058823529412,38.3,9.972941176470588,85
+Jayanagar 5th Block,1,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,25.15,18.0,12.29,10
+Jayanagar 5th Block,2,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,40.166666666666664,44.0,6.8999999999999995,6
+Jayanagar 5th Block,2,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,38.00869565217391,32.0,10.137391304347826,115
+Jayanagar 5th Block,2,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,23.0,23.0,10.3,1
+Jayanagar 5th Block,2,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,30.781818181818185,23.0,10.727272727272727,11
+Jayanagar 5th Block,2,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,31.27777777777778,28.0,8.100000000000001,9
+Jayanagar 5th Block,2,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,41.40423076923077,34.75,10.003846153846153,78
+Jayanagar 5th Block,2,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,19.0,16.0,8.760000000000002,5
+Jayanagar 5th Block,2,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,37.876705882352944,36.0,9.650588235294117,85
+Jayanagar 5th Block,2,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,35.5,26.0,11.316666666666668,6
+Jayanagar 5th Block,3,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,38.25,42.0,7.966666666666666,6
+Jayanagar 5th Block,3,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,37.72805309734514,35.0,9.91858407079646,113
+Jayanagar 5th Block,3,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,24.0,24.0,10.9,1
+Jayanagar 5th Block,3,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,23.925555555555555,19.0,9.522222222222222,9
+Jayanagar 5th Block,3,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,31.27777777777778,28.0,7.088888888888889,9
+Jayanagar 5th Block,3,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,37.991025641025644,34.5,9.576923076923077,78
+Jayanagar 5th Block,3,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,17.36,17.5,9.040000000000001,5
+Jayanagar 5th Block,3,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,37.16079545454546,34.9,9.486363636363636,88
+Jayanagar 5th Block,3,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,29.174,23.7,7.9,5
+Jayanagar 5th Block,4,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,40.760000000000005,41.5,8.92,5
+Jayanagar 5th Block,4,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,39.37654867256637,36.0,9.393805309734514,113
+Jayanagar 5th Block,4,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,21.3,21.3,10.6,1
+Jayanagar 5th Block,4,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,21.0,16.5,6.8428571428571425,7
+Jayanagar 5th Block,4,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,31.875,26.5,7.0874999999999995,8
+Jayanagar 5th Block,4,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,37.18289473684211,33.75,9.238157894736842,76
+Jayanagar 5th Block,4,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,17.416666666666668,18.5,8.9,6
+Jayanagar 5th Block,4,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,36.61123595505618,36.0,9.308988764044944,89
+Jayanagar 5th Block,4,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,27.21666666666667,23.4,9.516666666666667,6
+Jayanagar 5th Block,5,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,36.583333333333336,39.25,8.700000000000001,6
+Jayanagar 5th Block,5,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,37.80672268907563,32.0,9.460504201680672,119
+Jayanagar 5th Block,5,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,25.0,25.0,8.7,1
+Jayanagar 5th Block,5,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,19.285714285714285,18.5,7.571428571428571,7
+Jayanagar 5th Block,5,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,32.5375,28.85,7.0125,8
+Jayanagar 5th Block,5,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,36.15294117647059,30.0,9.207058823529412,85
+Jayanagar 5th Block,5,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,18.45,18.5,9.15,4
+Jayanagar 5th Block,5,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,36.72127659574468,35.0,9.127659574468085,94
+Jayanagar 5th Block,5,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,22.5,22.5,11.0,2
+Jayanagar 5th Block,6,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,38.9,43.0,8.471428571428572,7
+Jayanagar 5th Block,6,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,38.83583333333333,32.85,9.348333333333333,120
+Jayanagar 5th Block,6,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,16.758333333333333,19.65,11.866666666666667,6
+Jayanagar 5th Block,6,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,40.888888888888886,37.0,7.622222222222222,9
+Jayanagar 5th Block,6,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,37.700581395348834,33.25,9.053488372093023,86
+Jayanagar 5th Block,6,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,24.666666666666668,24.0,7.1000000000000005,3
+Jayanagar 5th Block,6,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,39.578804347826086,37.5,8.743478260869566,92
+Jayanagar 5th Block,6,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,23.266666666666666,19.0,7.866666666666667,3
+Jayanagar 5th Block,7,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,43.166666666666664,40.5,7.433333333333334,6
+Jayanagar 5th Block,7,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,42.60086206896552,38.25,9.813793103448276,116
+Jayanagar 5th Block,7,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,13.3,13.3,12.5,1
+Jayanagar 5th Block,7,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,24.45,21.5,11.607142857142858,14
+Jayanagar 5th Block,7,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,44.900000000000006,41.3,8.399999999999999,9
+Jayanagar 5th Block,7,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,41.21046511627907,36.75,9.231395348837209,86
+Jayanagar 5th Block,7,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,20.75,19.75,13.0,4
+Jayanagar 5th Block,7,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,42.62197802197802,41.5,8.94945054945055,91
+Jayanagar 5th Block,7,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,21.6625,21.9,12.375,8
+Jayanagar 5th Block,8,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,45.833333333333336,40.0,6.833333333333333,6
+Jayanagar 5th Block,8,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,45.328828828828826,44.0,9.796396396396398,111
+Jayanagar 5th Block,8,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,18.0,18.0,14.1,1
+Jayanagar 5th Block,8,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,23.0,22.5,16.394117647058824,17
+Jayanagar 5th Block,8,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,49.550000000000004,51.75,8.15,6
+Jayanagar 5th Block,8,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,47.0025641025641,41.25,9.475641025641027,78
+Jayanagar 5th Block,8,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,24.75,24.75,13.55,2
+Jayanagar 5th Block,8,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,21.96,21.0,14.61,10
+Jayanagar 5th Block,8,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,46.05952380952381,46.25,9.066666666666666,84
+Jayanagar 5th Block,8,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,21.259999999999998,20.0,14.713333333333335,15
+Jayanagar 5th Block,9,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,48.14,46.5,7.519999999999999,5
+Jayanagar 5th Block,9,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,44.06315789473684,42.25,10.587719298245615,114
+Jayanagar 5th Block,9,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,39.4,39.4,7.35,2
+Jayanagar 5th Block,9,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,25.24761904761905,23.5,14.542857142857141,21
+Jayanagar 5th Block,9,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,48.528571428571425,50.5,7.271428571428571,7
+Jayanagar 5th Block,9,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,44.995999999999995,41.0,10.152,75
+Jayanagar 5th Block,9,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,24.25,24.25,14.0,2
+Jayanagar 5th Block,9,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,21.650000000000002,20.65,16.508333333333333,12
+Jayanagar 5th Block,9,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,44.62142857142857,45.6,9.694047619047618,84
+Jayanagar 5th Block,9,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,25.0125,22.75,14.425,16
+Jayanagar 5th Block,10,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,47.86,47.0,7.58,5
+Jayanagar 5th Block,10,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,43.0549504950495,43.0,10.527722772277228,101
+Jayanagar 5th Block,10,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,42.9,42.9,11.8,2
+Jayanagar 5th Block,10,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,30.537037037037038,22.0,15.74074074074074,27
+Jayanagar 5th Block,10,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,42.0,45.85,8.15,8
+Jayanagar 5th Block,10,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,42.17162162162162,42.35,10.494594594594595,74
+Jayanagar 5th Block,10,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,30.5,30.5,12.8,1
+Jayanagar 5th Block,10,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,22.900000000000002,19.5,16.675,12
+Jayanagar 5th Block,10,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,42.29024390243902,43.0,9.99390243902439,82
+Jayanagar 5th Block,10,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,25.394736842105264,18.0,13.942105263157893,19
+Jayanagar 5th Block,11,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,45.86,46.0,6.619999999999999,5
+Jayanagar 5th Block,11,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,40.90980392156863,38.5,10.452941176470588,102
+Jayanagar 5th Block,11,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,45.0,45.0,12.95,2
+Jayanagar 5th Block,11,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,37.99107142857143,21.25,16.821428571428573,28
+Jayanagar 5th Block,11,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,43.528571428571425,46.0,8.6,7
+Jayanagar 5th Block,11,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,38.30298507462687,37.5,10.688059701492538,67
+Jayanagar 5th Block,11,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,20.75,20.75,14.4,2
+Jayanagar 5th Block,11,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,24.852941176470587,21.5,14.823529411764707,17
+Jayanagar 5th Block,11,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,42.83552631578947,44.0,9.363157894736842,76
+Jayanagar 5th Block,11,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,24.208333333333332,18.1,15.216666666666667,24
+Jayanagar 5th Block,12,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,44.879999999999995,45.5,6.4,5
+Jayanagar 5th Block,12,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,41.98444444444444,41.75,10.483333333333333,90
+Jayanagar 5th Block,12,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,39.9,39.9,13.5,2
+Jayanagar 5th Block,12,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,23.353846153846153,20.5,13.720512820512822,39
+Jayanagar 5th Block,12,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,43.9,49.0,9.728571428571428,7
+Jayanagar 5th Block,12,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,40.078947368421055,40.7,10.09298245614035,57
+Jayanagar 5th Block,12,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,20.75,20.75,14.25,2
+Jayanagar 5th Block,12,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,22.003846153846155,19.9,14.157692307692308,26
+Jayanagar 5th Block,12,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,42.7,45.5,9.537500000000001,72
+Jayanagar 5th Block,12,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,22.46551724137931,18.8,13.796551724137931,29
+Jayanagar 5th Block,13,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,47.333333333333336,46.5,5.0,3
+Jayanagar 5th Block,13,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,37.874,37.25,11.299000000000001,100
+Jayanagar 5th Block,13,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,38.25,38.25,14.25,2
+Jayanagar 5th Block,13,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,23.814705882352943,20.65,13.467647058823529,34
+Jayanagar 5th Block,13,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,42.125,48.0,9.825,8
+Jayanagar 5th Block,13,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,38.24848484848485,37.85,10.331818181818182,66
+Jayanagar 5th Block,13,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,13.5,13.5,15.7,1
+Jayanagar 5th Block,13,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,25.143478260869564,20.5,14.282608695652174,23
+Jayanagar 5th Block,13,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,40.67702702702702,43.25,9.9,74
+Jayanagar 5th Block,13,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,23.133333333333333,19.5,13.733333333333334,27
+Jayanagar 5th Block,14,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,45.96,50.0,7.859999999999999,5
+Jayanagar 5th Block,14,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,38.53244680851064,39.5,11.030851063829788,94
+Jayanagar 5th Block,14,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,64.0,64.0,9.2,1
+Jayanagar 5th Block,14,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,22.026249999999997,21.0,14.6,40
+Jayanagar 5th Block,14,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,38.1625,43.75,10.012500000000001,8
+Jayanagar 5th Block,14,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,35.75833333333333,29.75,10.67121212121212,66
+Jayanagar 5th Block,14,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,15.3,15.3,16.5,1
+Jayanagar 5th Block,14,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,35.36842105263158,22.3,13.61578947368421,19
+Jayanagar 5th Block,14,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,36.567532467532466,36.0,10.376623376623376,77
+Jayanagar 5th Block,14,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,24.071428571428573,21.5,15.133333333333335,21
+Jayanagar 5th Block,15,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,52.5,53.5,6.0,3
+Jayanagar 5th Block,15,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,36.3305,35.35,11.398,100
+Jayanagar 5th Block,15,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,49.666666666666664,60.0,10.233333333333334,3
+Jayanagar 5th Block,15,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,23.1875,22.75,13.205555555555556,36
+Jayanagar 5th Block,15,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,35.25714285714286,39.0,10.842857142857143,7
+Jayanagar 5th Block,15,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,39.11090909090909,39.0,11.145454545454545,55
+Jayanagar 5th Block,15,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,31.5,31.5,13.75,2
+Jayanagar 5th Block,15,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,20.738333333333333,17.5,12.82,30
+Jayanagar 5th Block,15,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,37.56974025974026,38.3,10.972727272727273,77
+Jayanagar 5th Block,15,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,22.10952380952381,19.0,12.038095238095238,21
+Jayanagar 5th Block,16,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,54.875,54.25,6.025,4
+Jayanagar 5th Block,16,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,37.83709677419355,38.0,12.06774193548387,93
+Jayanagar 5th Block,16,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,34.4,34.4,13.35,2
+Jayanagar 5th Block,16,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,23.64342105263158,19.75,13.00263157894737,38
+Jayanagar 5th Block,16,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,37.714285714285715,45.0,10.942857142857141,7
+Jayanagar 5th Block,16,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,37.238775510204086,39.0,11.473469387755102,49
+Jayanagar 5th Block,16,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,24.0,24.0,14.9,1
+Jayanagar 5th Block,16,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,23.221875,23.5,12.303125,32
+Jayanagar 5th Block,16,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,38.7463768115942,39.5,10.889855072463767,69
+Jayanagar 5th Block,16,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,22.842272727272725,18.25,11.686363636363637,22
+Jayanagar 5th Block,17,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,50.5,55.0,9.32,5
+Jayanagar 5th Block,17,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,39.481249999999996,39.35,11.442708333333334,96
+Jayanagar 5th Block,17,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,31.65,31.65,9.6,2
+Jayanagar 5th Block,17,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,24.62972972972973,22.0,11.518918918918919,37
+Jayanagar 5th Block,17,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,42.142857142857146,42.0,9.742857142857144,7
+Jayanagar 5th Block,17,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,41.510416666666664,41.0,10.741666666666667,48
+Jayanagar 5th Block,17,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,19.5,19.5,15.7,1
+Jayanagar 5th Block,17,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,22.488235294117647,21.3,11.617647058823529,34
+Jayanagar 5th Block,17,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,41.827536231884054,43.0,10.484057971014492,69
+Jayanagar 5th Block,17,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,23.19782608695652,20.5,12.64782608695652,23
+Jayanagar 5th Block,18,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,49.75,48.5,8.185714285714285,7
+Jayanagar 5th Block,18,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,39.466981132075475,39.4,10.483018867924528,106
+Jayanagar 5th Block,18,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,31.55925925925926,27.5,10.170370370370371,27
+Jayanagar 5th Block,18,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,49.02222222222222,44.0,9.5,9
+Jayanagar 5th Block,18,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,42.00677966101695,42.5,10.196610169491526,59
+Jayanagar 5th Block,18,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,23.743478260869566,20.0,9.995652173913044,23
+Jayanagar 5th Block,18,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,46.141975308641975,45.5,9.698765432098766,81
+Jayanagar 5th Block,18,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,19.7,17.25,10.37142857142857,14
+Jayanagar 5th Block,19,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,54.1,51.7,8.6,7
+Jayanagar 5th Block,19,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,43.03361344537815,43.0,10.191596638655462,119
+Jayanagar 5th Block,19,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,28.89375,23.75,10.28125,16
+Jayanagar 5th Block,19,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,73.15,50.6,9.2875,8
+Jayanagar 5th Block,19,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,43.76268656716418,43.0,9.411940298507464,67
+Jayanagar 5th Block,19,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,15.5,15.5,10.8,1
+Jayanagar 5th Block,19,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,24.95,23.15,11.025,20
+Jayanagar 5th Block,19,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,49.667088607594934,47.0,9.791139240506329,79
+Jayanagar 5th Block,19,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,23.5,18.3,9.772727272727273,11
+Jayanagar 5th Block,20,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,56.228571428571435,55.0,7.514285714285714,7
+Jayanagar 5th Block,20,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,45.864347826086956,46.5,10.236521739130435,115
+Jayanagar 5th Block,20,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,25.78333333333333,22.5,9.616666666666667,12
+Jayanagar 5th Block,20,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,78.775,58.5,9.4625,8
+Jayanagar 5th Block,20,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,45.99305555555556,42.25,10.319444444444445,72
+Jayanagar 5th Block,20,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,16.8,16.8,13.1,1
+Jayanagar 5th Block,20,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,24.764285714285712,22.4,9.635714285714286,14
+Jayanagar 5th Block,20,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,51.93974358974359,49.75,9.715384615384615,78
+Jayanagar 5th Block,20,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,27.646153846153844,26.0,9.853846153846153,13
+Jayanagar 5th Block,21,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,51.083333333333336,51.5,8.4,6
+Jayanagar 5th Block,21,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,44.56864406779661,44.85,10.886440677966101,118
+Jayanagar 5th Block,21,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,33.57272727272727,31.0,9.436363636363636,11
+Jayanagar 5th Block,21,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,56.357142857142854,57.5,10.9,7
+Jayanagar 5th Block,21,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,49.42253521126761,48.5,10.271830985915493,71
+Jayanagar 5th Block,21,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,20.0,20.0,8.7,1
+Jayanagar 5th Block,21,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,25.228571428571428,21.75,11.278571428571428,14
+Jayanagar 5th Block,21,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,48.76818181818182,49.5,10.260227272727272,88
+Jayanagar 5th Block,21,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,25.37142857142857,22.0,7.828571428571428,7
+Jayanagar 5th Block,22,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,45.542857142857144,40.0,9.328571428571427,7
+Jayanagar 5th Block,22,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,46.583928571428565,46.0,10.744642857142859,112
+Jayanagar 5th Block,22,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,26.049999999999997,18.75,11.066666666666666,18
+Jayanagar 5th Block,22,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,50.4125,53.5,10.375,8
+Jayanagar 5th Block,22,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,46.57820512820513,43.25,10.702564102564102,78
+Jayanagar 5th Block,22,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,26.900000000000002,21.8,9.133333333333333,6
+Jayanagar 5th Block,22,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,45.071739130434786,44.85,10.68695652173913,92
+Jayanagar 5th Block,22,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,18.8,18.7,7.24,5
+Jayanagar 5th Block,23,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,44.51428571428572,37.3,10.514285714285714,7
+Jayanagar 5th Block,23,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,43.538016528925624,41.0,11.1,121
+Jayanagar 5th Block,23,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,25.333333333333332,20.0,9.477777777777778,9
+Jayanagar 5th Block,23,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,46.8625,52.35,10.5,8
+Jayanagar 5th Block,23,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,43.47951807228916,38.0,10.981927710843374,83
+Jayanagar 5th Block,23,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,31.666666666666668,23.0,11.133333333333333,3
+Jayanagar 5th Block,23,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,42.48784946236559,43.0,10.866666666666667,93
+Jayanagar 5th Block,23,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,23.55,18.5,10.200000000000001,6
+Kasturi Nagar,0,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,42.45,42.45,9.55,2
+Kasturi Nagar,0,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,40.043902439024386,38.7,10.409756097560976,41
+Kasturi Nagar,0,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,31.7,31.7,1.0,1
+Kasturi Nagar,0,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,36.27142857142857,34.8,10.985714285714286,7
+Kasturi Nagar,0,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,40.425,39.45,9.55,4
+Kasturi Nagar,0,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,37.9483870967742,36.5,11.093548387096773,31
+Kasturi Nagar,0,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,35.6,35.6,12.5,1
+Kasturi Nagar,0,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,37.15428571428572,35.9,10.882857142857143,35
+Kasturi Nagar,0,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,34.85,35.35,10.3,4
+Kasturi Nagar,1,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,38.63333333333333,37.3,6.6000000000000005,3
+Kasturi Nagar,1,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,40.28478260869565,38.849999999999994,10.53695652173913,46
+Kasturi Nagar,1,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,35.26,33.9,9.68,5
+Kasturi Nagar,1,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,37.82,35.0,8.28,5
+Kasturi Nagar,1,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,37.561764705882354,36.150000000000006,10.258823529411766,34
+Kasturi Nagar,1,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,36.4,36.4,10.4,1
+Kasturi Nagar,1,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,37.73157894736842,36.150000000000006,10.26842105263158,38
+Kasturi Nagar,1,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,34.15,34.15,14.1,2
+Kasturi Nagar,2,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,38.666666666666664,38.1,6.1000000000000005,3
+Kasturi Nagar,2,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,40.49761904761905,38.7,10.552380952380952,42
+Kasturi Nagar,2,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,35.4,35.8,9.739999999999998,5
+Kasturi Nagar,2,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,38.925,39.0,8.575,4
+Kasturi Nagar,2,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,37.900000000000006,36.1,10.016129032258064,31
+Kasturi Nagar,2,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,37.75714285714286,35.7,9.914285714285715,35
+Kasturi Nagar,2,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,34.05,34.05,14.9,2
+Kasturi Nagar,3,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,38.46666666666667,37.2,6.366666666666667,3
+Kasturi Nagar,3,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,39.43953488372093,38.6,10.353488372093024,43
+Kasturi Nagar,3,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,35.199999999999996,35.7,9.299999999999999,3
+Kasturi Nagar,3,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,38.55,39.05,8.15,4
+Kasturi Nagar,3,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,37.97741935483871,36.7,9.96774193548387,31
+Kasturi Nagar,3,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,37.4974358974359,35.9,9.810256410256411,39
+Kasturi Nagar,3,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,34.0,34.0,16.9,2
+Kasturi Nagar,4,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,38.733333333333334,37.7,6.133333333333333,3
+Kasturi Nagar,4,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,39.334883720930236,38.5,10.202325581395348,43
+Kasturi Nagar,4,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,26.5,26.5,9.3,1
+Kasturi Nagar,4,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,38.6,38.75,8.575,4
+Kasturi Nagar,4,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,37.85,36.349999999999994,9.740625,32
+Kasturi Nagar,4,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,37.59714285714286,35.8,9.548571428571428,35
+Kasturi Nagar,4,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,35.53333333333333,35.7,14.566666666666668,3
+Kasturi Nagar,5,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,38.46666666666666,37.3,7.2,3
+Kasturi Nagar,5,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,39.565909090909095,38.7,9.915909090909091,44
+Kasturi Nagar,5,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,30.849999999999998,30.849999999999998,8.95,2
+Kasturi Nagar,5,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,38.775,38.9,8.675,4
+Kasturi Nagar,5,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,37.73870967741936,36.0,9.832258064516129,31
+Kasturi Nagar,5,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,38.9,38.9,11.9,1
+Kasturi Nagar,5,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,37.33684210526316,35.75,9.368421052631579,38
+Kasturi Nagar,5,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,33.85,33.85,13.55,2
+Kasturi Nagar,6,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,38.166666666666664,37.1,7.166666666666667,3
+Kasturi Nagar,6,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,39.1695652173913,36.849999999999994,9.721739130434782,46
+Kasturi Nagar,6,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,38.5,38.8,8.85,4
+Kasturi Nagar,6,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,38.15,36.7,9.28,30
+Kasturi Nagar,6,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,35.9,35.9,12.0,1
+Kasturi Nagar,6,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,37.294736842105266,35.7,9.049999999999999,38
+Kasturi Nagar,6,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,33.2,33.2,10.8,2
+Kasturi Nagar,7,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,38.300000000000004,37.2,6.0,3
+Kasturi Nagar,7,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,39.18913043478261,37.35,10.534782608695652,46
+Kasturi Nagar,7,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,49.55,49.55,14.850000000000001,2
+Kasturi Nagar,7,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,38.9,39.150000000000006,9.675,4
+Kasturi Nagar,7,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,37.9875,36.05,9.353125,32
+Kasturi Nagar,7,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,37.38333333333333,35.65,9.408333333333333,36
+Kasturi Nagar,7,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,34.95,34.95,4.4,2
+Kasturi Nagar,8,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,38.53333333333333,37.7,5.666666666666667,3
+Kasturi Nagar,8,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,39.18604651162791,37.4,10.53953488372093,43
+Kasturi Nagar,8,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,37.85,35.05,18.35,4
+Kasturi Nagar,8,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,35.025,34.3,7.65,4
+Kasturi Nagar,8,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,37.00322580645161,35.9,9.780645161290321,31
+Kasturi Nagar,8,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,48.3,48.3,14.7,1
+Kasturi Nagar,8,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,46.95,46.95,13.15,2
+Kasturi Nagar,8,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,37.40277777777778,36.0,9.43611111111111,36
+Kasturi Nagar,8,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,36.2,36.2,6.9,2
+Kasturi Nagar,9,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,42.2,42.2,6.65,2
+Kasturi Nagar,9,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,37.9,37.4,10.893333333333333,45
+Kasturi Nagar,9,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,31.5,31.5,3.7,1
+Kasturi Nagar,9,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,45.38333333333333,43.4,15.783333333333333,6
+Kasturi Nagar,9,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,35.35,34.95,7.15,4
+Kasturi Nagar,9,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,37.01428571428572,35.55,10.078571428571427,28
+Kasturi Nagar,9,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,48.8,48.8,15.4,1
+Kasturi Nagar,9,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,40.475,37.45,17.35,4
+Kasturi Nagar,9,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,37.51764705882353,36.1,9.738235294117647,34
+Kasturi Nagar,9,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,35.266666666666666,35.4,7.7,3
+Kasturi Nagar,10,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,42.099999999999994,42.099999999999994,6.05,2
+Kasturi Nagar,10,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,38.52307692307693,37.5,10.874358974358975,39
+Kasturi Nagar,10,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,31.3,31.3,7.4,1
+Kasturi Nagar,10,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,39.425,34.7,14.033333333333333,12
+Kasturi Nagar,10,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,38.825,39.05,8.375,4
+Kasturi Nagar,10,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,37.54137931034483,35.9,9.982758620689655,29
+Kasturi Nagar,10,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,45.2,45.2,16.700000000000003,2
+Kasturi Nagar,10,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,37.31142857142857,36.4,10.09142857142857,35
+Kasturi Nagar,10,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,35.300000000000004,35.2,7.3,3
+Kasturi Nagar,11,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,42.15,42.15,5.6,2
+Kasturi Nagar,11,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,39.27073170731707,38.8,11.356097560975611,41
+Kasturi Nagar,11,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,30.3,30.3,6.2,1
+Kasturi Nagar,11,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,37.625,34.7,14.541666666666666,12
+Kasturi Nagar,11,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,32.93333333333334,34.1,8.266666666666666,3
+Kasturi Nagar,11,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,39.18571428571429,36.9,10.432142857142859,28
+Kasturi Nagar,11,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,49.0,49.0,16.3,1
+Kasturi Nagar,11,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,40.96666666666667,36.1,13.200000000000001,3
+Kasturi Nagar,11,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,36.78857142857142,35.8,9.88,35
+Kasturi Nagar,11,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,35.45,35.45,9.5,2
+Kasturi Nagar,12,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,42.099999999999994,42.099999999999994,5.35,2
+Kasturi Nagar,12,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,39.15384615384615,36.4,11.0,39
+Kasturi Nagar,12,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,31.8,31.8,7.5,1
+Kasturi Nagar,12,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,38.49411764705882,35.9,13.1,17
+Kasturi Nagar,12,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,32.6,34.3,10.4,3
+Kasturi Nagar,12,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,39.272,35.9,9.927999999999999,25
+Kasturi Nagar,12,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,39.980000000000004,36.6,11.68,5
+Kasturi Nagar,12,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,36.86875,35.95,9.171875,32
+Kasturi Nagar,12,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,35.379999999999995,35.4,12.540000000000001,5
+Kasturi Nagar,13,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,37.2,37.2,4.9,1
+Kasturi Nagar,13,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,38.339999999999996,35.7,10.917777777777777,45
+Kasturi Nagar,13,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,31.9,31.9,9.4,1
+Kasturi Nagar,13,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,38.949999999999996,36.45,13.928571428571429,14
+Kasturi Nagar,13,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,36.125,36.25,10.05,4
+Kasturi Nagar,13,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,37.84,37.5,10.36,25
+Kasturi Nagar,13,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,39.18333333333334,37.6,13.633333333333333,6
+Kasturi Nagar,13,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,36.981818181818184,36.0,10.200000000000001,33
+Kasturi Nagar,13,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,35.4,35.7,8.34,5
+Kasturi Nagar,14,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,39.5,39.5,6.55,2
+Kasturi Nagar,14,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,38.09791666666667,36.75,10.577083333333333,48
+Kasturi Nagar,14,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,30.9,30.9,9.2,1
+Kasturi Nagar,14,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,39.56923076923077,38.0,15.038461538461538,13
+Kasturi Nagar,14,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,36.35,37.3,10.25,4
+Kasturi Nagar,14,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,37.84230769230769,36.6,11.411538461538461,26
+Kasturi Nagar,14,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,39.36,36.2,12.14,5
+Kasturi Nagar,14,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,36.7764705882353,35.7,10.15,34
+Kasturi Nagar,14,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,36.333333333333336,36.4,11.366666666666667,3
+Kasturi Nagar,15,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,39.55,39.55,7.9,2
+Kasturi Nagar,15,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,37.614583333333336,37.0,10.858333333333334,48
+Kasturi Nagar,15,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,31.0,31.0,9.9,1
+Kasturi Nagar,15,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,39.913333333333334,38.2,13.166666666666666,15
+Kasturi Nagar,15,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,35.300000000000004,36.9,13.0,3
+Kasturi Nagar,15,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,37.073076923076925,35.849999999999994,11.426923076923078,26
+Kasturi Nagar,15,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,41.355555555555554,38.8,15.100000000000001,9
+Kasturi Nagar,15,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,36.91875,35.95,10.15,32
+Kasturi Nagar,15,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,36.019999999999996,36.5,13.14,5
+Kasturi Nagar,16,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,39.599999999999994,39.599999999999994,9.8,2
+Kasturi Nagar,16,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,38.57333333333333,38.5,11.851111111111111,45
+Kasturi Nagar,16,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,31.6,31.6,8.7,1
+Kasturi Nagar,16,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,38.638888888888886,35.5,10.622222222222222,18
+Kasturi Nagar,16,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,33.650000000000006,33.650000000000006,13.05,2
+Kasturi Nagar,16,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,37.214814814814815,36.3,10.91851851851852,27
+Kasturi Nagar,16,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,39.47777777777778,36.1,13.333333333333334,9
+Kasturi Nagar,16,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,37.141935483870974,35.9,10.651612903225805,31
+Kasturi Nagar,16,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,32.333333333333336,31.6,9.033333333333333,3
+Kasturi Nagar,17,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,36.766666666666666,37.4,8.799999999999999,3
+Kasturi Nagar,17,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,37.90833333333333,36.9,10.858333333333334,48
+Kasturi Nagar,17,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,40.28125,35.849999999999994,11.175,16
+Kasturi Nagar,17,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,33.55,33.55,11.9,2
+Kasturi Nagar,17,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,37.375,36.1,10.760714285714286,28
+Kasturi Nagar,17,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,40.77777777777778,38.7,13.355555555555556,9
+Kasturi Nagar,17,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,37.36470588235294,35.9,10.75294117647059,34
+Kasturi Nagar,17,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,36.43333333333333,35.5,15.366666666666667,3
+Kasturi Nagar,18,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,36.6,37.0,7.133333333333333,3
+Kasturi Nagar,18,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,37.981632653061226,36.2,9.920408163265307,49
+Kasturi Nagar,18,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,40.04615384615385,36.2,10.2,13
+Kasturi Nagar,18,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,34.86666666666667,37.1,9.4,3
+Kasturi Nagar,18,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,37.730000000000004,36.9,10.34,30
+Kasturi Nagar,18,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,39.82857142857143,36.1,9.014285714285714,7
+Kasturi Nagar,18,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,37.53333333333333,36.3,9.76388888888889,36
+Kasturi Nagar,18,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,34.5,34.5,15.75,2
+Kasturi Nagar,19,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,36.699999999999996,37.3,6.233333333333333,3
+Kasturi Nagar,19,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,38.23157894736842,36.3,10.182456140350876,57
+Kasturi Nagar,19,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,38.35,36.8,9.325,4
+Kasturi Nagar,19,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,51.775,38.25,11.775,4
+Kasturi Nagar,19,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,37.70625,36.75,10.003125,32
+Kasturi Nagar,19,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,40.583333333333336,38.45,11.950000000000001,6
+Kasturi Nagar,19,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,37.23947368421052,36.099999999999994,9.978947368421052,38
+Kasturi Nagar,19,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,35.6,35.6,8.0,1
+Kasturi Nagar,20,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,36.96666666666667,37.9,7.1000000000000005,3
+Kasturi Nagar,20,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,38.03454545454546,36.2,10.496363636363636,55
+Kasturi Nagar,20,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,43.73333333333333,48.5,10.933333333333332,3
+Kasturi Nagar,20,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,51.9,38.099999999999994,11.85,4
+Kasturi Nagar,20,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,37.584848484848486,36.3,10.836363636363638,33
+Kasturi Nagar,20,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,42.56666666666666,42.0,9.433333333333334,3
+Kasturi Nagar,20,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,37.202777777777776,36.0,10.26388888888889,36
+Kasturi Nagar,20,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,35.1,35.1,10.4,1
+Kasturi Nagar,21,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,36.075,35.7,8.6,4
+Kasturi Nagar,21,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,37.93773584905661,36.1,11.252830188679244,53
+Kasturi Nagar,21,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,41.88333333333333,41.0,9.283333333333333,6
+Kasturi Nagar,21,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,51.65,38.1,13.2,4
+Kasturi Nagar,21,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,37.88484848484848,37.4,10.487878787878788,33
+Kasturi Nagar,21,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,39.43333333333334,36.1,12.433333333333332,3
+Kasturi Nagar,21,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,36.83157894736843,35.650000000000006,10.505263157894737,38
+Kasturi Nagar,21,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,35.8,35.8,8.1,1
+Kasturi Nagar,22,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,36.9,37.8,9.766666666666667,3
+Kasturi Nagar,22,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,38.31372549019608,37.3,11.050980392156863,51
+Kasturi Nagar,22,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,39.82000000000001,35.7,7.5,5
+Kasturi Nagar,22,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,53.725,38.25,12.5,4
+Kasturi Nagar,22,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,37.67878787878788,36.2,11.042424242424241,33
+Kasturi Nagar,22,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,43.15,43.15,7.65,2
+Kasturi Nagar,22,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,36.886842105263156,35.9,10.589473684210526,38
+Kasturi Nagar,22,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,35.0,35.0,7.7,1
+Kasturi Nagar,23,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,36.666666666666664,37.2,11.466666666666667,3
+Kasturi Nagar,23,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,38.84074074074074,38.05,11.21111111111111,54
+Kasturi Nagar,23,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,34.166666666666664,34.5,8.200000000000001,3
+Kasturi Nagar,23,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,52.35,38.15,12.1,4
+Kasturi Nagar,23,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,37.758823529411764,36.099999999999994,11.444117647058825,34
+Kasturi Nagar,23,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,33.6,33.6,12.75,2
+Kasturi Nagar,23,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,36.73421052631579,35.7,10.757894736842106,38
+Kasturi Nagar,23,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,35.400000000000006,35.400000000000006,10.3,2
+Peenya,0,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,19.060000000000002,23.6,10.933333333333332,3
+Peenya,0,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,20.082753623188406,17.5,10.278260869565218,69
+Peenya,0,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,8.555,8.555,3.0,2
+Peenya,0,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,9.868,9.675,6.68,10
+Peenya,0,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,28.7175,17.4,11.0,4
+Peenya,0,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,17.926136363636363,17.25,10.65,44
+Peenya,0,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,3.09,3.09,7.3,1
+Peenya,0,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,14.268,11.4,11.16,5
+Peenya,0,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,23.733469387755104,18.4,10.53673469387755,49
+Peenya,0,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,10.307500000000001,10.899999999999999,9.575,4
+Peenya,1,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,14.745000000000001,12.7,8.125,4
+Peenya,1,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,19.78808108108108,18.950000000000003,10.102702702702704,74
+Peenya,1,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,15.6,15.6,5.9,1
+Peenya,1,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,11.76875,6.475,9.225,8
+Peenya,1,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,30.353999999999996,17.9,9.8,5
+Peenya,1,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,18.779,19.9,10.09,50
+Peenya,1,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,6.0920000000000005,6.0,6.9799999999999995,5
+Peenya,1,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,17.060892857142857,17.15,10.171428571428573,56
+Peenya,1,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,44.425,16.1,11.6,4
+Peenya,2,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,15.7925,14.795,7.625,4
+Peenya,2,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,19.083098591549298,17.3,10.16056338028169,71
+Peenya,2,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,16.7,16.7,10.3,1
+Peenya,2,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,12.716666666666667,13.9,7.533333333333333,9
+Peenya,2,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,28.722,18.3,9.72,5
+Peenya,2,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,17.034230769230767,17.65,9.728846153846153,52
+Peenya,2,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,1.495,1.495,2.9,2
+Peenya,2,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,17.792777777777776,16.85,9.705555555555556,54
+Peenya,2,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,9.81,9.81,10.35,2
+Peenya,3,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,11.435,12.34,8.2,4
+Peenya,3,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,17.929788732394368,15.8,10.023943661971831,71
+Peenya,3,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,18.3,18.3,10.9,1
+Peenya,3,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,12.074444444444445,12.0,7.844444444444444,9
+Peenya,3,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,27.441999999999997,14.8,7.56,5
+Peenya,3,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,16.189821428571427,16.15,9.291071428571428,56
+Peenya,3,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,8.655,8.655,8.4,2
+Peenya,3,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,17.57381818181818,15.5,9.574545454545454,55
+Peenya,3,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,16.0,16.0,13.1,2
+Peenya,4,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,27.326666666666668,18.5,9.666666666666666,3
+Peenya,4,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,16.652837837837836,15.5,9.912162162162161,74
+Peenya,4,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,18.2,18.2,10.6,1
+Peenya,4,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,11.12857142857143,8.96,5.128571428571428,7
+Peenya,4,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,28.145999999999997,18.9,8.0,5
+Peenya,4,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,17.332,17.1,8.967272727272727,55
+Peenya,4,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,7.9399999999999995,7.9399999999999995,8.35,2
+Peenya,4,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,18.330555555555556,17.299999999999997,9.448148148148148,54
+Peenya,4,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,19.133333333333336,14.3,11.833333333333334,3
+Peenya,5,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,17.526666666666667,22.9,10.700000000000001,3
+Peenya,5,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,17.54736842105263,16.75,9.87236842105263,76
+Peenya,5,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,14.2,14.2,8.7,1
+Peenya,5,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,11.690000000000001,8.94,5.84,5
+Peenya,5,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,20.582,22.7,9.02,5
+Peenya,5,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,18.229444444444443,16.95,9.172222222222222,54
+Peenya,5,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,10.49,10.49,8.35,2
+Peenya,5,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,19.951724137931034,19.1,9.37241379310345,58
+Peenya,5,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,11.3,11.3,8.4,1
+Peenya,6,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,12.342,12.4,8.28,5
+Peenya,6,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,17.17326582278481,17.1,9.420253164556962,79
+Peenya,6,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,14.225000000000001,13.915,9.225,4
+Peenya,6,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,23.995,20.75,10.125,4
+Peenya,6,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,17.4725,16.85,8.803571428571429,56
+Peenya,6,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,16.266666666666666,15.5,7.1000000000000005,3
+Peenya,6,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,20.59375,20.35,9.091071428571428,56
+Peenya,6,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,16.1,16.1,9.0,1
+Peenya,7,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,18.67,20.4,6.3,4
+Peenya,7,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,17.455714285714286,17.3,9.763636363636364,77
+Peenya,7,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,5.97,5.97,12.5,1
+Peenya,7,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,13.673333333333334,6.9,9.844444444444443,9
+Peenya,7,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,20.636000000000003,18.0,10.08,5
+Peenya,7,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,17.503660714285715,19.1,8.851785714285715,56
+Peenya,7,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,6.4,6.4,15.5,1
+Peenya,7,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,20.703561403508772,19.5,9.326315789473684,57
+Peenya,7,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,17.04,17.04,10.75,2
+Peenya,8,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,19.79,22.4,6.1,4
+Peenya,8,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,18.20984210526316,17.15,9.61578947368421,76
+Peenya,8,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,5.98,5.98,14.1,1
+Peenya,8,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,10.327777777777778,5.98,12.433333333333334,9
+Peenya,8,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,38.900000000000006,38.900000000000006,13.05,2
+Peenya,8,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,17.490925925925925,18.0,9.457407407407407,54
+Peenya,8,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,5.97,5.97,14.7,1
+Peenya,8,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,10.450000000000001,6.0,13.366666666666667,3
+Peenya,8,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,22.261923076923075,21.35,8.942307692307692,52
+Peenya,8,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,7.671428571428572,5.98,15.814285714285715,7
+Peenya,9,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,15.266666666666666,14.9,7.266666666666667,3
+Peenya,9,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,20.162770270270272,16.75,10.52027027027027,74
+Peenya,9,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,6.925,6.925,7.35,2
+Peenya,9,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,9.596363636363636,7.26,8.663636363636364,11
+Peenya,9,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,40.333333333333336,39.1,9.933333333333334,3
+Peenya,9,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,18.40712962962963,19.45,10.374074074074075,54
+Peenya,9,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,5.98,5.98,15.4,1
+Peenya,9,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,13.9,13.7,15.300000000000002,3
+Peenya,9,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,18.330716981132078,18.2,9.622641509433961,53
+Peenya,9,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,21.268333333333334,5.98,14.733333333333334,6
+Peenya,10,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,14.966666666666667,14.0,7.3999999999999995,3
+Peenya,10,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,18.62272463768116,16.9,10.572463768115941,69
+Peenya,10,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,7.8500000000000005,7.8500000000000005,11.8,2
+Peenya,10,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,12.991333333333333,6.67,12.120000000000001,15
+Peenya,10,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,23.3425,22.6,11.700000000000001,4
+Peenya,10,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,17.215,16.549999999999997,10.34375,48
+Peenya,10,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,1.59,1.59,12.8,1
+Peenya,10,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,14.244,11.4,12.819999999999999,5
+Peenya,10,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,18.622,17.75,10.027999999999999,50
+Peenya,10,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,23.747142857142858,18.3,13.471428571428572,7
+Peenya,11,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,21.033333333333335,20.0,6.766666666666666,3
+Peenya,11,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,18.343114754098362,15.2,11.12295081967213,61
+Peenya,11,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,4.13,4.13,12.95,2
+Peenya,11,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,9.580625,6.955,13.05625,16
+Peenya,11,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,27.96666666666667,18.0,11.033333333333333,3
+Peenya,11,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,18.3,17.3,10.090909090909092,44
+Peenya,11,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,5.98,5.98,16.3,1
+Peenya,11,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,12.21888888888889,7.9,13.977777777777778,9
+Peenya,11,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,18.476304347826087,16.4,9.493478260869566,46
+Peenya,11,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,13.157272727272726,10.5,14.718181818181819,11
+Peenya,12,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,19.45,19.950000000000003,6.5,4
+Peenya,12,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,21.021724137931034,16.85,10.505172413793103,58
+Peenya,12,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,3.2625,3.2625,13.5,2
+Peenya,12,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,10.118181818181817,6.0,11.954545454545455,22
+Peenya,12,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,25.066666666666666,18.1,11.033333333333333,3
+Peenya,12,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,17.46837837837838,16.8,9.54054054054054,37
+Peenya,12,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,5.98,5.98,16.4,1
+Peenya,12,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,10.746666666666668,6.0600000000000005,13.316666666666665,12
+Peenya,12,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,23.289772727272727,16.85,9.204545454545455,44
+Peenya,12,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,27.968181818181815,5.98,15.718181818181819,11
+Peenya,13,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,19.6,19.6,3.95,2
+Peenya,13,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,20.371186440677967,16.8,11.196610169491526,59
+Peenya,13,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,3.8099999999999996,3.8099999999999996,14.25,2
+Peenya,13,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,13.671764705882353,12.6,11.258823529411766,17
+Peenya,13,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,22.96666666666667,16.9,10.6,3
+Peenya,13,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,16.840238095238096,16.200000000000003,9.797619047619047,42
+Peenya,13,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,5.98,5.98,15.7,1
+Peenya,13,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,9.616,6.585,15.01,10
+Peenya,13,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,22.57311111111111,18.0,9.719999999999999,45
+Peenya,13,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,19.772727272727273,14.7,13.7,11
+Peenya,14,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,13.426666666666668,14.1,9.766666666666666,3
+Peenya,14,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,23.42906779661017,18.5,10.515254237288135,59
+Peenya,14,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,13.130476190476191,6.0,12.109523809523811,21
+Peenya,14,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,24.833333333333332,26.4,10.800000000000002,3
+Peenya,14,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,18.32775,16.75,9.682500000000001,40
+Peenya,14,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,5.98,5.98,16.5,1
+Peenya,14,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,8.29,6.0,13.355555555555556,9
+Peenya,14,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,21.065714285714286,17.549999999999997,9.847619047619048,42
+Peenya,14,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,12.712727272727273,12.4,14.881818181818181,11
+Peenya,15,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,14.969999999999999,12.0,6.0,3
+Peenya,15,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,21.89892307692308,15.7,11.186153846153847,65
+Peenya,15,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,3.305,3.305,11.95,2
+Peenya,15,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,21.791249999999998,17.950000000000003,9.66875,16
+Peenya,15,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,23.95,23.95,10.350000000000001,2
+Peenya,15,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,19.109736842105264,16.200000000000003,10.673684210526316,38
+Peenya,15,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,16.189999999999998,16.189999999999998,13.75,2
+Peenya,15,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,11.857692307692307,6.08,11.400000000000002,13
+Peenya,15,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,18.60112765957447,14.1,9.980851063829787,47
+Peenya,15,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,9.994,8.0,13.66,10
+Peenya,16,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,15.285,15.285,5.3,2
+Peenya,16,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,20.541147540983605,15.8,11.459016393442623,61
+Peenya,16,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,7.365,7.365,13.35,2
+Peenya,16,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,23.986874999999998,11.3,10.416666666666666,24
+Peenya,16,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,19.096666666666668,10.9,10.433333333333332,3
+Peenya,16,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,21.8795,18.200000000000003,10.93,40
+Peenya,16,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,5.98,5.98,14.9,1
+Peenya,16,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,12.812857142857142,10.899999999999999,9.87142857142857,14
+Peenya,16,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,18.058326086956523,17.65,9.934782608695652,46
+Peenya,16,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,21.294999999999998,7.715,13.416666666666666,12
+Peenya,17,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,17.366666666666667,13.6,7.833333333333333,3
+Peenya,17,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,20.938059701492534,19.0,10.656716417910447,67
+Peenya,17,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,6.76,6.76,9.6,2
+Peenya,17,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,17.082272727272727,10.7,9.731818181818182,22
+Peenya,17,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,33.25,33.25,9.9,2
+Peenya,17,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,20.539473684210527,16.6,10.363157894736842,38
+Peenya,17,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,5.97,5.97,15.7,1
+Peenya,17,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,14.421176470588236,12.9,10.229411764705883,17
+Peenya,17,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,20.85734693877551,18.0,9.744897959183673,49
+Peenya,17,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,12.700999999999999,5.99,11.389999999999999,10
+Peenya,18,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,14.578,12.1,7.279999999999999,5
+Peenya,18,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,21.952285714285715,19.35,9.525714285714285,70
+Peenya,18,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,19.95952380952381,20.3,9.352380952380953,21
+Peenya,18,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,25.352600000000002,23.2,10.66,5
+Peenya,18,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,21.847749999999998,19.15,9.575,40
+Peenya,18,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,16.517857142857142,16.05,9.428571428571429,14
+Peenya,18,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,23.218200000000003,19.95,8.976,50
+Peenya,18,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,11.144444444444446,6.64,9.933333333333334,9
+Peenya,19,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,18.736,21.1,9.7,5
+Peenya,19,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,19.35987654320988,18.3,9.5320987654321,81
+Peenya,19,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,20.88090909090909,26.0,8.672727272727274,11
+Peenya,19,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,37.3025,30.35,10.075,4
+Peenya,19,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,22.883555555555557,23.2,9.064444444444444,45
+Peenya,19,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,5.97,5.97,10.8,1
+Peenya,19,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,8.8765,5.98,10.59,10
+Peenya,19,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,21.650727272727273,18.1,9.3,55
+Peenya,19,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,13.681666666666667,5.975,10.116666666666665,6
+Peenya,20,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,19.735,21.2,7.183333333333334,6
+Peenya,20,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,19.89278481012658,19.3,9.877215189873418,79
+Peenya,20,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,18.373333333333335,21.1,9.144444444444444,9
+Peenya,20,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,36.8306,26.3,8.2,5
+Peenya,20,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,21.44510638297872,21.7,10.174468085106383,47
+Peenya,20,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,5.98,5.98,13.1,1
+Peenya,20,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,8.672857142857143,5.97,9.128571428571428,7
+Peenya,20,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,23.282363636363637,18.7,9.3,55
+Peenya,20,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,16.00166666666667,5.98,10.283333333333333,6
+Peenya,21,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,24.456,26.9,8.22,5
+Peenya,21,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,20.286883116883114,19.2,10.44935064935065,77
+Peenya,21,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,11.383,5.995,9.389999999999999,10
+Peenya,21,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,39.288,22.0,10.180000000000001,5
+Peenya,21,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,21.359565217391303,20.200000000000003,10.141304347826088,46
+Peenya,21,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,5.98,5.98,8.7,1
+Peenya,21,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,10.885,5.98,8.933333333333332,6
+Peenya,21,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,23.637833333333333,19.799999999999997,9.943333333333333,60
+Peenya,21,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,8.99,8.99,1.7,1
+Peenya,22,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,20.036,19.6,9.879999999999999,5
+Peenya,22,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,21.776805555555555,17.5,10.524999999999999,72
+Peenya,22,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,15.900833333333333,15.95,9.158333333333333,12
+Peenya,22,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,29.765833333333333,9.24,10.533333333333333,6
+Peenya,22,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,22.627777777777776,22.6,10.45111111111111,45
+Peenya,22,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,9.176666666666668,5.98,7.45,6
+Peenya,22,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,23.612333333333332,19.5,10.518333333333334,60
+Peenya,22,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,7.985,7.985,7.050000000000001,2
+Peenya,23,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,24.773999999999997,26.4,10.059999999999999,5
+Peenya,23,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,22.130625000000002,19.4,10.997499999999999,80
+Peenya,23,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,16.255555555555556,16.2,9.255555555555555,9
+Peenya,23,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,29.663999999999998,14.1,11.16,5
+Peenya,23,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,20.77078431372549,18.9,10.909803921568628,51
+Peenya,23,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,10.4,10.4,5.0,1
+Peenya,23,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,23.470166666666668,18.6,10.565,60
+Peenya,23,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,20.0,21.6,10.4,3
+Silk Board,0,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,44.5,44.5,9.55,2
+Silk Board,0,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,46.52333333333334,38.0,10.353333333333333,90
+Silk Board,0,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,53.0,53.0,11.2,1
+Silk Board,0,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,24.1625,21.75,9.10625,16
+Silk Board,0,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,40.92857142857143,39.0,9.471428571428572,7
+Silk Board,0,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,43.981818181818184,44.0,10.738181818181818,55
+Silk Board,0,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,73.5,73.5,7.3,1
+Silk Board,0,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,19.0,15.25,10.3875,8
+Silk Board,0,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,43.25277777777777,42.0,10.545833333333333,72
+Silk Board,0,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,20.0375,10.0,8.475,8
+Silk Board,1,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,40.75,40.75,9.15,2
+Silk Board,1,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,40.06963963963963,35.5,10.200900900900901,111
+Silk Board,1,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,27.0,27.0,4.5,2
+Silk Board,1,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,22.835714285714285,18.65,10.271428571428572,14
+Silk Board,1,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,41.388888888888886,42.5,8.31111111111111,9
+Silk Board,1,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,43.209375,40.5,10.1546875,64
+Silk Board,1,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,24.054999999999996,19.75,8.433333333333334,6
+Silk Board,1,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,39.09107142857143,38.75,10.029761904761905,84
+Silk Board,1,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,23.142857142857142,16.0,11.342857142857143,7
+Silk Board,2,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,37.5,37.0,7.3999999999999995,3
+Silk Board,2,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,36.24155963302752,33.0,10.039449541284403,109
+Silk Board,2,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,7.5,7.5,10.3,1
+Silk Board,2,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,19.7,15.75,9.283333333333333,12
+Silk Board,2,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,41.47777777777778,45.5,8.100000000000001,9
+Silk Board,2,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,39.97089552238806,38.5,9.892537313432834,67
+Silk Board,2,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,16.5,13.5,9.8,3
+Silk Board,2,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,37.562289156626505,36.0,9.61686746987952,83
+Silk Board,2,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,21.2,11.0,11.98,5
+Silk Board,3,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,37.5,34.0,7.766666666666667,3
+Silk Board,3,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,35.44833333333333,33.25,9.803703703703704,108
+Silk Board,3,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,10.5,10.5,10.9,1
+Silk Board,3,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,19.063636363636363,16.7,8.881818181818183,11
+Silk Board,3,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,43.888888888888886,43.0,7.088888888888889,9
+Silk Board,3,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,36.27814285714285,34.5,9.615714285714287,70
+Silk Board,3,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,20.266666666666666,16.0,9.566666666666668,3
+Silk Board,3,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,36.91941860465116,34.75,9.562790697674417,86
+Silk Board,3,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,11.54,8.915,8.925,4
+Silk Board,4,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,38.333333333333336,36.0,7.666666666666667,3
+Silk Board,4,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,35.24227272727273,33.75,9.454545454545455,110
+Silk Board,4,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,15.0,15.0,10.6,1
+Silk Board,4,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,17.9375,17.0,6.175,8
+Silk Board,4,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,43.666666666666664,39.3,7.366666666666666,9
+Silk Board,4,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,36.6468115942029,36.0,9.221739130434782,69
+Silk Board,4,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,20.075,15.65,9.175,4
+Silk Board,4,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,38.25604651162791,36.75,9.297674418604652,86
+Silk Board,4,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,17.166,12.5,10.52,5
+Silk Board,5,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,39.0,38.0,9.700000000000001,3
+Silk Board,5,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,36.167857142857144,34.5,9.476785714285715,112
+Silk Board,5,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,22.5,22.5,8.7,1
+Silk Board,5,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,18.533333333333335,17.35,7.183333333333333,6
+Silk Board,5,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,40.32222222222222,42.5,7.411111111111111,9
+Silk Board,5,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,37.81884057971015,38.0,9.134782608695652,69
+Silk Board,5,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,25.400000000000002,17.7,10.6,3
+Silk Board,5,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,39.168314606741575,37.0,9.233707865168538,89
+Silk Board,5,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,16.333333333333332,17.5,8.4,3
+Silk Board,6,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,37.625,34.5,8.375,4
+Silk Board,6,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,40.07256637168141,38.5,9.306194690265485,113
+Silk Board,6,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,18.47,21.0,9.739999999999998,5
+Silk Board,6,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,44.0,43.25,6.9625,8
+Silk Board,6,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,41.11405797101449,40.5,8.93768115942029,69
+Silk Board,6,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,28.0,26.0,7.1000000000000005,3
+Silk Board,6,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,41.273863636363636,42.35,8.917045454545455,88
+Silk Board,6,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,19.8325,22.0,7.65,4
+Silk Board,7,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,41.43333333333333,42.5,7.2,3
+Silk Board,7,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,45.95,45.5,9.7,108
+Silk Board,7,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,24.833333333333332,26.25,10.658333333333333,12
+Silk Board,7,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,48.1,48.0,7.7625,8
+Silk Board,7,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,44.75633802816901,44.5,9.038028169014085,71
+Silk Board,7,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,20.533333333333335,21.3,14.433333333333332,3
+Silk Board,7,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,42.96627906976744,44.0,9.23953488372093,86
+Silk Board,7,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,22.3,24.65,10.15,6
+Silk Board,8,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,43.7,44.5,7.025,4
+Silk Board,8,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,48.29065420560748,50.0,9.767289719626167,107
+Silk Board,8,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,23.9,24.8,15.42,15
+Silk Board,8,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,48.6,46.4,8.15,6
+Silk Board,8,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,49.53692307692308,50.0,9.303076923076924,65
+Silk Board,8,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,48.65,48.65,13.55,2
+Silk Board,8,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,24.566666666666666,19.3,14.58888888888889,9
+Silk Board,8,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,45.139240506329116,46.0,9.253164556962025,79
+Silk Board,8,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,24.383333333333336,23.25,13.966666666666667,12
+Silk Board,9,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,48.0,51.5,6.633333333333333,3
+Silk Board,9,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,48.07663551401869,46.5,10.457943925233645,107
+Silk Board,9,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,15.7,15.7,11.0,1
+Silk Board,9,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,30.21578947368421,24.5,13.010526315789473,19
+Silk Board,9,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,48.67142857142857,41.5,7.271428571428571,7
+Silk Board,9,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,49.409375,47.0,10.0109375,64
+Silk Board,9,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,59.0,59.0,14.0,2
+Silk Board,9,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,26.41818181818182,23.3,16.727272727272727,11
+Silk Board,9,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,44.9,45.0,10.024358974358973,78
+Silk Board,9,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,27.27692307692308,24.3,13.938461538461537,13
+Silk Board,10,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,46.5,46.5,5.0,2
+Silk Board,10,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,47.84375,45.0,10.44375,96
+Silk Board,10,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,18.3,18.3,16.2,1
+Silk Board,10,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,33.87692307692308,26.4,14.096153846153847,26
+Silk Board,10,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,42.625,39.9,8.15,8
+Silk Board,10,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,47.4640625,45.25,10.103125,64
+Silk Board,10,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,98.5,98.5,12.8,1
+Silk Board,10,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,26.9,21.5,16.144444444444446,9
+Silk Board,10,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,42.88461538461539,42.4,10.21025641025641,78
+Silk Board,10,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,30.3,28.25,13.475,16
+Silk Board,11,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,45.43333333333334,45.0,6.766666666666666,3
+Silk Board,11,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,44.98421052631579,44.3,10.625263157894736,95
+Silk Board,11,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,20.3,20.3,19.7,1
+Silk Board,11,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,35.162962962962965,24.7,14.685185185185185,27
+Silk Board,11,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,50.416666666666664,50.25,8.366666666666667,6
+Silk Board,11,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,45.833928571428565,39.0,10.387500000000001,56
+Silk Board,11,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,58.5,58.5,14.4,2
+Silk Board,11,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,34.5875,24.0,14.99375,16
+Silk Board,11,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,42.94507042253521,42.5,9.491549295774648,71
+Silk Board,11,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,28.6,26.3,14.995238095238093,21
+Silk Board,12,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,48.55,47.25,6.225,4
+Silk Board,12,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,43.19404761904762,44.65,10.763095238095238,84
+Silk Board,12,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,18.0,18.0,19.5,1
+Silk Board,12,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,34.733333333333334,26.65,12.680555555555555,36
+Silk Board,12,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,49.06666666666666,52.35,9.7,6
+Silk Board,12,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,44.89807692307692,42.25,10.232692307692307,52
+Silk Board,12,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,55.4,55.4,14.25,2
+Silk Board,12,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,33.06818181818182,23.5,14.395454545454545,22
+Silk Board,12,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,42.53088235294118,44.0,9.483823529411765,68
+Silk Board,12,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,29.807407407407407,28.0,13.274074074074075,27
+Silk Board,13,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,53.0,51.5,5.0,3
+Silk Board,13,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,39.98421052631579,39.3,10.814736842105264,95
+Silk Board,13,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,33.809677419354834,28.0,12.899999999999999,31
+Silk Board,13,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,47.142857142857146,46.5,9.799999999999999,7
+Silk Board,13,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,39.972131147540985,39.0,10.37704918032787,61
+Silk Board,13,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,24.0,24.0,15.7,1
+Silk Board,13,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,30.70555555555556,25.4,14.494444444444444,18
+Silk Board,13,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,40.527142857142856,41.4,9.822857142857144,70
+Silk Board,13,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,28.191999999999997,25.0,13.504000000000001,25
+Silk Board,14,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,57.06666666666666,57.5,5.5,3
+Silk Board,14,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,41.73913043478261,39.0,10.596739130434782,92
+Silk Board,14,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,30.48181818181818,24.8,13.866666666666667,33
+Silk Board,14,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,46.114285714285714,44.5,10.114285714285714,7
+Silk Board,14,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,38.69322033898305,36.0,10.584745762711865,59
+Silk Board,14,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,23.8,23.8,16.5,1
+Silk Board,14,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,33.42352941176471,30.5,13.611764705882353,17
+Silk Board,14,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,38.64647887323944,39.5,10.074647887323943,71
+Silk Board,14,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,25.985000000000003,25.25,15.62,20
+Silk Board,15,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,49.65,49.65,5.65,2
+Silk Board,15,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,40.608333333333334,39.0,11.205208333333333,96
+Silk Board,15,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,74.0,74.0,6.8,1
+Silk Board,15,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,29.075,23.25,12.40625,32
+Silk Board,15,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,51.5,45.9,10.933333333333332,6
+Silk Board,15,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,44.994,39.4,10.93,50
+Silk Board,15,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,27.5,27.5,13.75,2
+Silk Board,15,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,29.94074074074074,24.5,12.537037037037036,27
+Silk Board,15,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,37.394444444444446,37.5,10.955555555555556,72
+Silk Board,15,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,29.915,28.75,12.084999999999999,20
+Silk Board,16,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,59.9,55.0,5.633333333333333,3
+Silk Board,16,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,41.59770114942529,40.7,11.825287356321839,87
+Silk Board,16,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,48.0,48.0,8.7,1
+Silk Board,16,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,32.96194444444445,28.0,11.636111111111113,36
+Silk Board,16,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,55.333333333333336,50.75,11.166666666666666,6
+Silk Board,16,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,45.774468085106385,40.5,11.114893617021275,47
+Silk Board,16,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,25.5,25.5,14.9,1
+Silk Board,16,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,30.836,25.0,11.652000000000001,25
+Silk Board,16,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,39.52,36.5,10.7,65
+Silk Board,16,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,28.504347826086956,26.3,11.508695652173913,23
+Silk Board,17,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,52.5,46.25,9.55,4
+Silk Board,17,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,42.21123595505618,42.0,11.180898876404495,89
+Silk Board,17,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,48.75,48.75,9.6,2
+Silk Board,17,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,31.525,27.25,10.884375,32
+Silk Board,17,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,58.416666666666664,52.5,9.783333333333333,6
+Silk Board,17,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,45.536734693877555,44.0,10.622448979591837,49
+Silk Board,17,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,24.5,24.5,15.7,1
+Silk Board,17,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,30.167241379310347,25.0,11.158620689655173,29
+Silk Board,17,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,40.72985074626866,42.0,9.995522388059703,67
+Silk Board,17,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,28.385714285714286,26.0,12.895238095238096,21
+Silk Board,18,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,60.300000000000004,61.25,8.299999999999999,6
+Silk Board,18,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,43.75979381443299,42.0,10.097938144329897,97
+Silk Board,18,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,34.751999999999995,27.5,10.008,25
+Silk Board,18,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,55.355555555555554,53.0,9.5,9
+Silk Board,18,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,47.483050847457626,45.5,9.88135593220339,59
+Silk Board,18,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,27.904761904761905,23.0,10.252380952380951,21
+Silk Board,18,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,43.41917808219178,45.0,9.435616438356163,73
+Silk Board,18,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,19.5,19.0,10.753846153846155,13
+Silk Board,19,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,58.38333333333333,57.0,8.566666666666666,6
+Silk Board,19,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,49.48867924528302,46.25,9.916037735849056,106
+Silk Board,19,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,34.1,28.0,10.266666666666667,15
+Silk Board,19,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,70.725,54.65,9.2875,8
+Silk Board,19,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,54.48870967741936,52.25,9.412903225806453,62
+Silk Board,19,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,32.8,32.8,10.8,1
+Silk Board,19,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,23.946875,21.4,10.40625,16
+Silk Board,19,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,47.04935064935065,47.0,9.684415584415586,77
+Silk Board,19,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,20.9,16.0,9.11111111111111,9
+Silk Board,20,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,50.357142857142854,46.0,7.514285714285714,7
+Silk Board,20,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,52.820754716981135,51.4,9.945283018867926,106
+Silk Board,20,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,23.38888888888889,20.0,8.833333333333334,9
+Silk Board,20,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,87.5875,64.25,9.4625,8
+Silk Board,20,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,54.97121212121212,49.9,10.103030303030302,66
+Silk Board,20,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,32.5,32.5,13.1,1
+Silk Board,20,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,20.674615384615382,18.0,9.63076923076923,13
+Silk Board,20,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,50.9986301369863,50.5,9.81917808219178,73
+Silk Board,20,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,22.570833333333336,18.75,9.291666666666666,12
+Silk Board,21,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,53.166666666666664,49.5,6.833333333333333,6
+Silk Board,21,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,50.39449541284404,48.0,10.609174311926607,109
+Silk Board,21,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,37.12222222222223,27.5,9.31111111111111,9
+Silk Board,21,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,89.4375,61.5,11.0125,8
+Silk Board,21,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,49.67121212121212,47.75,10.16969696969697,66
+Silk Board,21,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Pre-Holiday / Exodus,25.0,25.0,8.7,1
+Silk Board,21,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,27.60909090909091,15.8,10.181818181818182,11
+Silk Board,21,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,52.96024096385542,46.0,10.22289156626506,83
+Silk Board,21,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,20.133333333333333,18.25,7.25,6
+Silk Board,22,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,49.550000000000004,47.75,8.616666666666667,6
+Silk Board,22,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,49.33571428571428,45.4,10.559183673469388,98
+Silk Board,22,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,29.54705882352941,22.0,11.558823529411764,17
+Silk Board,22,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,74.77777777777777,48.5,10.444444444444445,9
+Silk Board,22,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,48.2169014084507,46.5,10.53661971830986,71
+Silk Board,22,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,22.01875,18.4,9.125,8
+Silk Board,22,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,48.39764705882353,45.5,10.607058823529412,85
+Silk Board,22,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,18.2,16.5,7.24,5
+Silk Board,23,Core Office (Tue-Thu),Dry Evening (0 mm),Pre-Holiday / Exodus,56.2,45.3,10.4,5
+Silk Board,23,Core Office (Tue-Thu),Dry Evening (0 mm),Regular Day,46.185188679245286,41.35,10.86320754716981,106
+Silk Board,23,Core Office (Tue-Thu),Rainy Evening (> 0 mm),Regular Day,26.1875,24.75,10.225,8
+Silk Board,23,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Pre-Holiday / Exodus,69.46666666666667,44.3,10.711111111111112,9
+Silk Board,23,Hybrid Edge (Mon & Fri),Dry Evening (0 mm),Regular Day,42.61909090909091,40.3,11.03116883116883,77
+Silk Board,23,Hybrid Edge (Mon & Fri),Rainy Evening (> 0 mm),Regular Day,22.5,20.0,7.9,4
+Silk Board,23,Weekend (Sat-Sun),Dry Evening (0 mm),Regular Day,44.81593023255814,39.5,10.784883720930232,86
+Silk Board,23,Weekend (Sat-Sun),Rainy Evening (> 0 mm),Regular Day,23.125999999999998,23.0,9.92,5
